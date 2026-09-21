@@ -1,0 +1,42 @@
+{
+  "_note": "Authentic customer reviews copied verbatim from the previous website's 'Nos avis' page (source: Google reviews). Dates are as displayed on that page (relative) and were not available as absolute dates. Do not add reviews here without a verifiable source.",
+  "source": "Google",
+  "reviews": [
+    {
+      "id": "arzo-karimi",
+      "author": "Arzo Karimi",
+      "rating": 5,
+      "language": "en",
+      "text": "Best service. Same day delivery. Very friendly staff and really good prices. Highly recommend.",
+      "dateLabel": null,
+      "sourceUrl": "https://www.google.com/maps/contrib/109776233293496992443/reviews?hl=en"
+    },
+    {
+      "id": "raoul",
+      "author": "Raoul",
+      "rating": 5,
+      "language": "fr",
+      "text": "Les meilleurs prix comparés à tous les autres magasins d'électroménager ! Un service client au top ! Leurs appareils sont neufs et impeccables ! Et je suis vraiment ravie de la livraison ! Je recommande vivement !",
+      "dateLabel": null,
+      "sourceUrl": null
+    },
+    {
+      "id": "george-tamzarian",
+      "author": "George Tamzarian",
+      "rating": 5,
+      "language": "en",
+      "text": "I was so satisfied with the service that I had there, and the prices are really low. And all the staff are in a good condition, highly recommend...",
+      "dateLabel": null,
+      "sourceUrl": "https://www.google.com/maps/contrib/100442351375211355300/reviews?hl=en-CA"
+    },
+    {
+      "id": "brian-moten",
+      "author": "Brian Moten",
+      "rating": null,
+      "language": "fr",
+      "text": "Je suis extrêmement satisfait de ce produit ! Sa qualité et ses performances ont dépassé mes attentes. Le service client était excellent et la livraison rapide. Je le recommande vivement.",
+      "dateLabel": null,
+      "sourceUrl": null
+    }
+  ]
+}

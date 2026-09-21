@@ -1,0 +1,254 @@
+[
+  {
+    "source": "/-refrigerateurs-a-portes-francaises-de-36-po-a-partir-de-900-dollar-",
+    "destination": "/produits/refrigerateur-a-portes-francaises-samsung-de-36-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-refrigerateurs-a-portes-francaises-de-33-po-a-partir-de-700-dollar-",
+    "destination": "/produits/refrigerateur-a-portes-francaises-lg-de-33-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-refrigerateurs-a-portes-francaises-seulement-850-dollar-",
+    "destination": "/produits/refrigerateur-a-portes-francaises-en-acier-inoxydable-format-standard",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-refrigerateurs-a-seulement-599-dollar-chacun-",
+    "destination": "/produits/refrigerateur-de-format-standard-marques-variees",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-offre-speciale-ensemble-laveuse-et-secheuse-a-seulement-749-dollar-",
+    "destination": "/produits/ensemble-laveuse-et-secheuse-marques-variees",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-cuisiniere-electrique-whirlpool-seulement-600-dollar-1",
+    "destination": "/produits/cuisiniere-electrique-whirlpool-en-acier-inoxydable",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/5615fd1d-af74-4aca-8eec-e37e45bffb9f",
+    "destination": "/produits/cuisiniere-electrique-en-acier-inoxydable",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-cuisiniere-electrique-whirlpool-seulement-600-dollar-",
+    "destination": "/produits/cuisiniere-whirlpool-a-surface-lisse-en-acier-inoxydable",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-ensemble-samsung-en-acier-inoxydable-",
+    "destination": "/produits/ensemble-samsung-4-appareils-en-acier-inoxydable",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/amana-stainless-steel-electric-stove-dollar420",
+    "destination": "/produits/cuisiniere-electrique-amana-en-acier-inoxydable",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/lg-stainless-steel-electric-range-with-blue-interior-dollar450-or-econoelectroservices",
+    "destination": "/produits/cuisiniere-electrique-lg-en-acier-inoxydable-interieur-bleu",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/whirlpool-stainless-steel-electric-range-dollar350-or-econoelectroservices",
+    "destination": "/produits/cuisiniere-electrique-whirlpool-a-four-autonettoyant",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/cuisiniere-electrique-maytag-a-double-four-",
+    "destination": "/produits/cuisiniere-electrique-maytag-gemini-a-double-four",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-cuisiniere-electrique-whirlpool-a-seulement-530-dollar",
+    "destination": "/produits/cuisiniere-electrique-whirlpool-a-surface-vitroceramique",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/ensemble-samsung-blanc-electromenagers",
+    "destination": "/produits/ensemble-samsung-blanc-4-appareils",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/pack-samsung-econo-electro-",
+    "destination": "/produits/ensemble-samsung-4-appareils-avec-refrigerateur-a-portes-francaises",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-econo-electro-votre-magasin-delectromenagers-de-confiance-a-laval",
+    "destination": "/produits/ensemble-4-appareils-refrigerateur-cuisiniere-laveuse-et-secheuse",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-laveuse-and-secheuse-samsung-moins-de-830-dollar-",
+    "destination": "/produits/laveuse-et-secheuse-samsung-compactes",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-mini-laveuse-and-secheuse-ge-moins-de-850-dollar-",
+    "destination": "/produits/mini-laveuse-et-secheuse-ge",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-mini-laveuse-and-secheuse-blomberg-moins-de-950-dollar-",
+    "destination": "/produits/mini-laveuse-et-secheuse-blomberg",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-laveuse-and-secheuse-samsung-grises-or-seulement-850-dollar-",
+    "destination": "/produits/laveuse-et-secheuse-samsung-grises",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/laveuse-et-secheuse-lg",
+    "destination": "/produits/laveuse-et-secheuse-lg-blanches",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/ensemble-delectromenagers-samsung-super-offre-de-fin-de-semaine",
+    "destination": "/produits/ensemble-samsung-refrigerateur-cuisiniere-laveuse-et-secheuse",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-refrigerateur-samsung-technologie-twin-cooling2",
+    "destination": "/produits/refrigerateur-samsung-twin-cooling-en-acier-inoxydable-32-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-refrigerateur-samsung-technologie-twin-cooling1",
+    "destination": "/produits/refrigerateur-a-portes-francaises-samsung-twin-cooling-32-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-refrigerateur-samsung-technologie-twin-cooling",
+    "destination": "/produits/refrigerateur-a-portes-francaises-samsung-twin-cooling-37-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/refrigerateur-blanche-samsung-a-portes-francaises",
+    "destination": "/produits/refrigerateur-a-portes-francaises-samsung-blanc-33-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-refrigerateur-ge-profile-stainless-steel",
+    "destination": "/produits/refrigerateur-ge-profile-a-congelateur-inferieur-33-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/congelateur-vertical-en-inox",
+    "destination": "/produits/congelateur-vertical-en-acier-inoxydable-38-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/-refrigerateur-ge-water-filteration-technology",
+    "destination": "/produits/refrigerateur-ge-avec-filtration-d-eau-33-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/maytag-refrigerator-interior",
+    "destination": "/produits/refrigerateur-maytag-de-36-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/french-door-stainless-steel-refrigerator",
+    "destination": "/produits/refrigerateur-a-portes-francaises-samsung-en-acier-inoxydable-32-po",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/premium-appliances-set",
+    "destination": "/boutique",
+    "permanent": true,
+    "note": "unpublished product -> shop"
+  },
+  {
+    "source": "/econo-electro-digital-gift-card",
+    "destination": "/produits/carte-cadeau-numerique-econo-electro",
+    "permanent": true,
+    "note": "product"
+  },
+  {
+    "source": "/washer-and-dryer",
+    "destination": "/boutique",
+    "permanent": true,
+    "note": "unpublished product -> shop"
+  },
+  {
+    "source": "/shirt-jacket-zvcinv",
+    "destination": "/boutique",
+    "permanent": true,
+    "note": "unpublished product -> shop"
+  },
+  {
+    "source": "/store",
+    "destination": "/boutique",
+    "permanent": true,
+    "note": "old store page"
+  },
+  {
+    "source": "/httpswwweconoelectroservicescom",
+    "destination": "/a-propos",
+    "permanent": true,
+    "note": "old 'Know Us' page"
+  },
+  {
+    "source": "/httpswwweconoelectroservicescomnos-avisappliances",
+    "destination": "/avis",
+    "permanent": true,
+    "note": "old reviews page"
+  },
+  {
+    "source": "/refurbished-appliances-in-quebec-fridges-stoves-washers-dryers-and-dishwashers-electromenagers",
+    "destination": "/contact",
+    "permanent": true,
+    "note": "old contact page"
+  },
+  {
+    "source": "/accueil",
+    "destination": "/",
+    "permanent": true,
+    "note": "typo-safe home alias"
+  },
+  {
+    "source": "/acceuil",
+    "destination": "/",
+    "permanent": true,
+    "note": "old misspelling"
+  }
+]

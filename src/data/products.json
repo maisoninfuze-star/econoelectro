@@ -1,0 +1,4400 @@
+[
+  {
+    "id": "prod_01M28Z2HS3PXTJ83YR1PASAXPE",
+    "slug": "refrigerateur-a-portes-francaises-samsung-de-36-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur à portes françaises Samsung de 36 po",
+      "en": "Samsung 36-in. French-Door Refrigerator"
+    },
+    "shortDescription": {
+      "fr": "Portes françaises, distributeur d'eau et de glaçons, congélateur inférieur.",
+      "en": "French doors, water and ice dispenser, bottom freezer."
+    },
+    "description": {
+      "fr": "Réfrigérateur Samsung de 36 pouces à portes françaises offrant un style moderne et beaucoup d'espace de rangement. Fini en acier inoxydable, distributeur d'eau et de glaçons, intérieur spacieux et bien organisé, tablettes et compartiments pratiques, congélateur inférieur. Plusieurs unités offertes selon les stocks : le prix indiqué est un prix de départ, confirmé selon l'unité choisie.",
+      "en": "Samsung 36-inch French-door refrigerator with a modern look and generous storage. Stainless steel finish, water and ice dispenser, spacious well-organized interior, practical shelves and compartments, bottom freezer. Several units are offered depending on stock: the price shown is a starting price, confirmed for the unit you choose."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 900,
+    "compareAtPrice": null,
+    "priceFrom": true,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": 36,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m28z2hs3pxtj83yr1pasaxpe/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung de 36 po – photo 1",
+          "en": "Samsung 36-in. French-Door Refrigerator – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/6aa980b1-8257-4721-a982-5bb90cda6b78.jpg",
+          "file": "prod_01M28Z2HS3PXTJ83YR1PASAXPE__6aa980b1-8257-4721-a982-5bb90cda6b78.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m28z2hs3pxtj83yr1pasaxpe/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung de 36 po – photo 2",
+          "en": "Samsung 36-in. French-Door Refrigerator – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/5ac8f9e2-865f-4c64-97fe-089110c8ddb7.jpg",
+          "file": "prod_01M28Z2HS3PXTJ83YR1PASAXPE__5ac8f9e2-865f-4c64-97fe-089110c8ddb7.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "multiple",
+    "locationId": "vimont",
+    "featured": true,
+    "newArrival": true,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type"
+        },
+        "value": {
+          "fr": "Portes françaises, congélateur inférieur",
+          "en": "French door, bottom freezer"
+        }
+      },
+      {
+        "label": {
+          "fr": "Largeur",
+          "en": "Width"
+        },
+        "value": {
+          "fr": "36 po",
+          "en": "36 in."
+        }
+      },
+      {
+        "label": {
+          "fr": "Distributeur",
+          "en": "Dispenser"
+        },
+        "value": {
+          "fr": "Eau et glaçons",
+          "en": "Water and ice"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur à portes françaises Samsung de 36 po | Écono Électro Laval",
+      "en": "Samsung 36-in. French-Door Refrigerator | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Portes françaises, distributeur d'eau et de glaçons, congélateur inférieur. À partir de 900 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "French doors, water and ice dispenser, bottom freezer. From $900. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "limited-stock",
+      "new-arrival"
+    ],
+    "purchasable": false,
+    "createdAt": "2026-09-11T19:28:23.843Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M28Z2HS3PXTJ83YR1PASAXPE",
+      "originalName": "🔥 RÉFRIGÉRATEURS À PORTES FRANÇAISES DE 36 PO — À PARTIR DE 900 $ 🔥",
+      "originalSlug": "-refrigerateurs-a-portes-francaises-de-36-po-a-partir-de-900-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateurs-a-portes-francaises-de-36-po-a-partir-de-900-dollar-"
+    },
+    "reviewFlags": [
+      "Annonce regroupant plusieurs unités (prix « à partir de »). À scinder en unités individuelles dans Shopify."
+    ]
+  },
+  {
+    "id": "prod_01M28X524NX3GAANQQAE1SNE85",
+    "slug": "refrigerateur-a-portes-francaises-lg-de-33-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur à portes françaises LG de 33 po",
+      "en": "LG 33-in. French-Door Refrigerator"
+    },
+    "shortDescription": {
+      "fr": "Format standard de 33 po, congélateur inférieur, fini acier inoxydable.",
+      "en": "Standard 33-in. size, bottom freezer, stainless finish."
+    },
+    "description": {
+      "fr": "Réfrigérateur LG à portes françaises de 33 pouces, parfait pour les espaces de format standard. Fini en acier inoxydable, intérieur spacieux et bien organisé, tablettes et rangements pratiques, congélateur inférieur. Plusieurs unités offertes selon les stocks : le prix indiqué est un prix de départ.",
+      "en": "LG 33-inch French-door refrigerator, ideal for standard-size spaces. Stainless steel finish, spacious well-organized interior, practical shelves and storage, bottom freezer. Several units are offered depending on stock: the price shown is a starting price."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": "LG",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 700,
+    "compareAtPrice": null,
+    "priceFrom": true,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": 33,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m28x524nx3gaanqqae1sne85/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises LG de 33 po – photo 1",
+          "en": "LG 33-in. French-Door Refrigerator – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/bfdc68ee-2078-4683-b04e-b1811360dfdb.jpg",
+          "file": "prod_01M28X524NX3GAANQQAE1SNE85__bfdc68ee-2078-4683-b04e-b1811360dfdb.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m28x524nx3gaanqqae1sne85/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises LG de 33 po – photo 2",
+          "en": "LG 33-in. French-Door Refrigerator – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/f3b3edb9-020e-4c9b-94d8-e0bbbdd97412.jpg",
+          "file": "prod_01M28X524NX3GAANQQAE1SNE85__f3b3edb9-020e-4c9b-94d8-e0bbbdd97412.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "multiple",
+    "locationId": "vimont",
+    "featured": true,
+    "newArrival": true,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type"
+        },
+        "value": {
+          "fr": "Portes françaises, congélateur inférieur",
+          "en": "French door, bottom freezer"
+        }
+      },
+      {
+        "label": {
+          "fr": "Largeur",
+          "en": "Width"
+        },
+        "value": {
+          "fr": "33 po",
+          "en": "33 in."
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur à portes françaises LG de 33 po | Écono Électro Laval",
+      "en": "LG 33-in. French-Door Refrigerator | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Format standard de 33 po, congélateur inférieur, fini acier inoxydable. À partir de 700 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Standard 33-in. size, bottom freezer, stainless finish. From $700. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "limited-stock",
+      "new-arrival"
+    ],
+    "purchasable": false,
+    "createdAt": "2026-09-11T18:54:48.981Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M28X524NX3GAANQQAE1SNE85",
+      "originalName": "🔥 RÉFRIGÉRATEURS À PORTES FRANÇAISES DE 33 PO — À PARTIR DE 700 $ 🔥",
+      "originalSlug": "-refrigerateurs-a-portes-francaises-de-33-po-a-partir-de-700-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateurs-a-portes-francaises-de-33-po-a-partir-de-700-dollar-"
+    },
+    "reviewFlags": [
+      "Annonce regroupant plusieurs unités (prix « à partir de »). À scinder en unités individuelles dans Shopify."
+    ]
+  },
+  {
+    "id": "prod_01M28PXK35F71FXBGTC7EM0TGF",
+    "slug": "refrigerateur-de-format-standard-marques-variees",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur de format standard, marques variées",
+      "en": "Standard-Size Refrigerator, Assorted Brands"
+    },
+    "shortDescription": {
+      "fr": "Sélection de réfrigérateurs Whirlpool, Samsung, LG, GE, Frigidaire et KitchenAid, format standard.",
+      "en": "Selection of Whirlpool, Samsung, LG, GE, Frigidaire and KitchenAid standard-size refrigerators."
+    },
+    "description": {
+      "fr": "Offre spéciale sur notre sélection de réfrigérateurs de format standard. Marques actuellement en stock : Whirlpool, Samsung, LG, GE, Frigidaire et KitchenAid. Quantités limitées; communiquez avec nous pour vérifier les modèles disponibles et réserver votre réfrigérateur.",
+      "en": "Special offer on our selection of standard-size refrigerators. Brands currently in stock: Whirlpool, Samsung, LG, GE, Frigidaire and KitchenAid. Limited quantities; contact us to check available models and reserve your refrigerator."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "congelateur-haut",
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 599,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": null,
+    "finish": null,
+    "images": [
+      {
+        "src": "/images/products/01m28pxk35f71fxbgtc7em0tgf/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur de format standard, marques variées – photo 1",
+          "en": "Standard-Size Refrigerator, Assorted Brands – photo 1"
+        },
+        "width": 1600,
+        "height": 1200,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/8a524d16-eb3d-447a-b864-f551b2e00459.jpg",
+          "file": "prod_01M28PXK35F71FXBGTC7EM0TGF__8a524d16-eb3d-447a-b864-f551b2e00459.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m28pxk35f71fxbgtc7em0tgf/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur de format standard, marques variées – photo 2",
+          "en": "Standard-Size Refrigerator, Assorted Brands – photo 2"
+        },
+        "width": 1600,
+        "height": 1200,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/3b8f7653-e9a1-4282-bba6-0ca7a22ccb8b.jpg",
+          "file": "prod_01M28PXK35F71FXBGTC7EM0TGF__3b8f7653-e9a1-4282-bba6-0ca7a22ccb8b.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 2,
+    "inventoryPolicy": "multiple",
+    "locationId": "vimont",
+    "featured": true,
+    "newArrival": true,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Format",
+          "en": "Size"
+        },
+        "value": {
+          "fr": "Standard",
+          "en": "Standard"
+        }
+      },
+      {
+        "label": {
+          "fr": "Marques en stock",
+          "en": "Brands in stock"
+        },
+        "value": {
+          "fr": "Whirlpool, Samsung, LG, GE, Frigidaire, KitchenAid",
+          "en": "Whirlpool, Samsung, LG, GE, Frigidaire, KitchenAid"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur de format standard, marques variées | Écono Électro Laval",
+      "en": "Standard-Size Refrigerator, Assorted Brands | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Sélection de réfrigérateurs Whirlpool, Samsung, LG, GE, Frigidaire et KitchenAid, format standard. Offert à 599 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Selection of Whirlpool, Samsung, LG, GE, Frigidaire and KitchenAid standard-size refrigerators. Offered at $599. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "limited-stock",
+      "new-arrival"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-09-11T17:05:52.741Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M28PXK35F71FXBGTC7EM0TGF",
+      "originalName": "🔥 RÉFRIGÉRATEURS À SEULEMENT 599 $ CHACUN 🔥",
+      "originalSlug": "-refrigerateurs-a-seulement-599-dollar-chacun-",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateurs-a-seulement-599-dollar-chacun-"
+    },
+    "reviewFlags": [
+      "Annonce regroupant plusieurs unités de marques différentes. Sous-catégorie et quantité à confirmer.",
+      "Marque non identifiée."
+    ]
+  },
+  {
+    "id": "prod_01M28JE86K4JTJY5J9344AXA86",
+    "slug": "ensemble-laveuse-et-secheuse-marques-variees",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Ensemble laveuse et sécheuse, marques variées",
+      "en": "Washer and Dryer Set, Assorted Brands"
+    },
+    "shortDescription": {
+      "fr": "Samsung, Maytag, GE ou LG, en blanc, gris ou acier inoxydable, selon les stocks.",
+      "en": "Samsung, Maytag, GE or LG, in white, grey or stainless, depending on stock."
+    },
+    "description": {
+      "fr": "Choisissez la marque et la couleur qui vous conviennent parmi notre sélection en stock : Samsung, Maytag, GE ou LG, en blanc, gris ou acier inoxydable. Ensemble laveuse et sécheuse à prix réduit, plusieurs modèles disponibles jusqu'à épuisement des stocks.",
+      "en": "Choose the brand and colour that suit you from our in-stock selection: Samsung, Maytag, GE or LG, in white, grey or stainless steel. Washer and dryer set at a reduced price, several models available while supplies last."
+    },
+    "category": "laveuses-secheuses",
+    "subcategory": "ensemble-laveuse-secheuse",
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 749,
+    "compareAtPrice": 999,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": null,
+    "finish": null,
+    "images": [
+      {
+        "src": "/images/products/01m28je86k4jtjy5j9344axa86/1.webp",
+        "alt": {
+          "fr": "Ensemble laveuse et sécheuse, marques variées – photo 1",
+          "en": "Washer and Dryer Set, Assorted Brands – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/26debd2d-bb7d-43f9-9f1f-e4688cf6e3d7.jpg",
+          "file": "prod_01M28JE86K4JTJY5J9344AXA86__26debd2d-bb7d-43f9-9f1f-e4688cf6e3d7.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m28je86k4jtjy5j9344axa86/2.webp",
+        "alt": {
+          "fr": "Ensemble laveuse et sécheuse, marques variées – photo 2",
+          "en": "Washer and Dryer Set, Assorted Brands – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/56fdb5ee-3f5f-4699-9e68-edb2344021c3.jpg",
+          "file": "prod_01M28JE86K4JTJY5J9344AXA86__56fdb5ee-3f5f-4699-9e68-edb2344021c3.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 2,
+    "inventoryPolicy": "multiple",
+    "locationId": "vimont",
+    "featured": true,
+    "newArrival": true,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Contenu",
+          "en": "Includes"
+        },
+        "value": {
+          "fr": "Laveuse et sécheuse",
+          "en": "Washer and dryer"
+        }
+      },
+      {
+        "label": {
+          "fr": "Marques offertes",
+          "en": "Brands offered"
+        },
+        "value": {
+          "fr": "Samsung, Maytag, GE, LG",
+          "en": "Samsung, Maytag, GE, LG"
+        }
+      },
+      {
+        "label": {
+          "fr": "Couleurs offertes",
+          "en": "Colours offered"
+        },
+        "value": {
+          "fr": "Blanc, gris, acier inoxydable",
+          "en": "White, grey, stainless steel"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Ensemble laveuse et sécheuse, marques variées | Écono Électro Laval",
+      "en": "Washer and Dryer Set, Assorted Brands | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Samsung, Maytag, GE ou LG, en blanc, gris ou acier inoxydable, selon les stocks. Offert à 749 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Samsung, Maytag, GE or LG, in white, grey or stainless, depending on stock. Offered at $749. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale",
+      "new-arrival"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-09-11T15:47:35.763Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M28JE86K4JTJY5J9344AXA86",
+      "originalName": "🔥 OFFRE SPÉCIALE — ENSEMBLE LAVEUSE ET SÉCHEUSE À SEULEMENT 749 $ 🔥",
+      "originalSlug": "-offre-speciale-ensemble-laveuse-et-secheuse-a-seulement-749-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-offre-speciale-ensemble-laveuse-et-secheuse-a-seulement-749-dollar-"
+    },
+    "reviewFlags": [
+      "Annonce regroupant plusieurs ensembles. Quantité exacte à confirmer.",
+      "Marque non identifiée."
+    ]
+  },
+  {
+    "id": "prod_01M1PTS9B1KYNTSX65DCKF6KE0",
+    "slug": "ensemble-samsung-4-appareils-en-acier-inoxydable",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Ensemble Samsung 4 appareils en acier inoxydable",
+      "en": "Samsung 4-Piece Stainless Steel Appliance Set"
+    },
+    "shortDescription": {
+      "fr": "Réfrigérateur, cuisinière, laveuse et sécheuse Samsung, vendus ensemble à prix réduit.",
+      "en": "Samsung refrigerator, range, washer and dryer, sold together at a reduced price."
+    },
+    "description": {
+      "fr": "Équipez votre maison avec un ensemble complet d'électroménagers Samsung en acier inoxydable : réfrigérateur, cuisinière, laveuse et sécheuse. Prix des appareils vendus séparément : réfrigérateur 800 $, laveuse et sécheuse 800 $, cuisinière 450 $. Quantités limitées.",
+      "en": "Equip your home with a complete set of Samsung stainless steel appliances: refrigerator, range, washer and dryer. Prices when sold separately: refrigerator $800, washer and dryer $800, range $450. Limited quantities."
+    },
+    "category": "ensembles",
+    "subcategory": "4-appareils",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 2050,
+    "compareAtPrice": 2300,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m1pts9b1kyntsx65dckf6ke0/1.webp",
+        "alt": {
+          "fr": "Ensemble Samsung 4 appareils en acier inoxydable – photo 1",
+          "en": "Samsung 4-Piece Stainless Steel Appliance Set – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/805d0d0a-b5f1-4951-82b9-2f9a76a1584d.jpg",
+          "file": "prod_01M1PTS9B1KYNTSX65DCKF6KE0__805d0d0a-b5f1-4951-82b9-2f9a76a1584d.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pts9b1kyntsx65dckf6ke0/2.webp",
+        "alt": {
+          "fr": "Ensemble Samsung 4 appareils en acier inoxydable – photo 2",
+          "en": "Samsung 4-Piece Stainless Steel Appliance Set – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/290fe966-494d-4619-9962-ee7edeb8aa4e.jpg",
+          "file": "prod_01M1PTS9B1KYNTSX65DCKF6KE0__290fe966-494d-4619-9962-ee7edeb8aa4e.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pts9b1kyntsx65dckf6ke0/3.webp",
+        "alt": {
+          "fr": "Ensemble Samsung 4 appareils en acier inoxydable – photo 3",
+          "en": "Samsung 4-Piece Stainless Steel Appliance Set – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/e483e748-2411-4828-be4e-aa435d2042f2.jpg",
+          "file": "prod_01M1PTS9B1KYNTSX65DCKF6KE0__e483e748-2411-4828-be4e-aa435d2042f2.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pts9b1kyntsx65dckf6ke0/4.webp",
+        "alt": {
+          "fr": "Ensemble Samsung 4 appareils en acier inoxydable – photo 4",
+          "en": "Samsung 4-Piece Stainless Steel Appliance Set – photo 4"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/769cf036-6a0f-401a-aa57-290d9528f1ec.jpg",
+          "file": "prod_01M1PTS9B1KYNTSX65DCKF6KE0__769cf036-6a0f-401a-aa57-290d9528f1ec.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pts9b1kyntsx65dckf6ke0/5.webp",
+        "alt": {
+          "fr": "Ensemble Samsung 4 appareils en acier inoxydable – photo 5",
+          "en": "Samsung 4-Piece Stainless Steel Appliance Set – photo 5"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/7ee8429b-66ec-42c8-9916-5bf71c326d59.jpg",
+          "file": "prod_01M1PTS9B1KYNTSX65DCKF6KE0__7ee8429b-66ec-42c8-9916-5bf71c326d59.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pts9b1kyntsx65dckf6ke0/6.webp",
+        "alt": {
+          "fr": "Ensemble Samsung 4 appareils en acier inoxydable – photo 6",
+          "en": "Samsung 4-Piece Stainless Steel Appliance Set – photo 6"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/13d4e38a-0898-4be8-a660-6996d6378fd9.jpg",
+          "file": "prod_01M1PTS9B1KYNTSX65DCKF6KE0__13d4e38a-0898-4be8-a660-6996d6378fd9.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": true,
+    "newArrival": true,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [],
+    "includes": [
+      {
+        "fr": "Réfrigérateur Samsung (800 $ séparément)",
+        "en": "Samsung refrigerator ($800 separately)"
+      },
+      {
+        "fr": "Laveuse et sécheuse Samsung (800 $ séparément)",
+        "en": "Samsung washer and dryer ($800 separately)"
+      },
+      {
+        "fr": "Cuisinière Samsung (450 $ séparément)",
+        "en": "Samsung range ($450 separately)"
+      }
+    ],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Ensemble Samsung 4 appareils en acier inoxydable | Écono Électro Laval",
+      "en": "Samsung 4-Piece Stainless Steel Appliance Set | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Réfrigérateur, cuisinière, laveuse et sécheuse Samsung, vendus ensemble à prix réduit. Offert à 2050 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Samsung refrigerator, range, washer and dryer, sold together at a reduced price. Offered at $2050. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale",
+      "new-arrival",
+      "limited-stock"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-09-04T18:27:06.209Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M1PTS9B1KYNTSX65DCKF6KE0",
+      "originalName": "🔥 ENSEMBLE SAMSUNG EN ACIER INOXYDABLE 🔥",
+      "originalSlug": "-ensemble-samsung-en-acier-inoxydable-",
+      "originalUrl": "https://www.econoelectroservices.com/-ensemble-samsung-en-acier-inoxydable-"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M19YWPTKS0E08KW7RXX1KQ5W",
+    "slug": "cuisiniere-electrique-lg-en-acier-inoxydable-interieur-bleu",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Cuisinière électrique LG en acier inoxydable, intérieur bleu",
+      "en": "LG Stainless Steel Electric Range, Blue Interior"
+    },
+    "shortDescription": {
+      "fr": "Surface vitrée avec élément pont, commandes numériques, intérieur émaillé bleu LG.",
+      "en": "Glass cooktop with bridge element, digital controls, LG blue enamel interior."
+    },
+    "description": {
+      "fr": "Cuisinière électrique LG en acier inoxydable munie d'une surface de cuisson vitrée avec élément pont, de commandes entièrement numériques et de l'intérieur de four émaillé bleu caractéristique de LG. Appareil d'occasion entièrement testé.",
+      "en": "LG stainless steel electric range with a glass cooktop featuring a bridge element, full digital controls and LG's signature blue enamel oven interior. Pre-owned unit, fully tested."
+    },
+    "category": "cuisinieres",
+    "subcategory": "electrique",
+    "brand": "LG",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 450,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m19ywptks0e08kw7rxx1kq5w/1.webp",
+        "alt": {
+          "fr": "Cuisinière électrique LG en acier inoxydable, intérieur bleu – photo 1",
+          "en": "LG Stainless Steel Electric Range, Blue Interior – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/8621877f-b967-4259-b020-108c8c5deab0.jpg",
+          "file": "prod_01M19YWPTKS0E08KW7RXX1KQ5W__8621877f-b967-4259-b020-108c8c5deab0.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m19ywptks0e08kw7rxx1kq5w/2.webp",
+        "alt": {
+          "fr": "Cuisinière électrique LG en acier inoxydable, intérieur bleu – photo 2",
+          "en": "LG Stainless Steel Electric Range, Blue Interior – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/1e3b4acd-9c5d-46c9-8751-7a660c4118b5.jpg",
+          "file": "prod_01M19YWPTKS0E08KW7RXX1KQ5W__1e3b4acd-9c5d-46c9-8751-7a660c4118b5.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m19ywptks0e08kw7rxx1kq5w/3.webp",
+        "alt": {
+          "fr": "Cuisinière électrique LG en acier inoxydable, intérieur bleu – photo 3",
+          "en": "LG Stainless Steel Electric Range, Blue Interior – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/3c7668c5-beda-4645-87bb-79c30b955687.jpg",
+          "file": "prod_01M19YWPTKS0E08KW7RXX1KQ5W__3c7668c5-beda-4645-87bb-79c30b955687.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": true,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "3-month warranty",
+    "specifications": [
+      {
+        "label": {
+          "fr": "Surface de cuisson",
+          "en": "Cooktop"
+        },
+        "value": {
+          "fr": "Vitrée, avec élément pont",
+          "en": "Glass, with bridge element"
+        }
+      },
+      {
+        "label": {
+          "fr": "Intérieur du four",
+          "en": "Oven interior"
+        },
+        "value": {
+          "fr": "Émail bleu",
+          "en": "Blue enamel"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Cuisinière électrique LG en acier inoxydable, intérieur bleu | Écono Électro Laval",
+      "en": "LG Stainless Steel Electric Range, Blue Interior | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Surface vitrée avec élément pont, commandes numériques, intérieur émaillé bleu LG. Offert à 450 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Glass cooktop with bridge element, digital controls, LG blue enamel interior. Offered at $450. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-30T18:28:45.011Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M19YWPTKS0E08KW7RXX1KQ5W",
+      "originalName": "LG Stainless Steel Electric Range with Blue Interior – $450 | EconoElectroServices",
+      "originalSlug": "lg-stainless-steel-electric-range-with-blue-interior-dollar450-or-econoelectroservices",
+      "originalUrl": "https://www.econoelectroservices.com/lg-stainless-steel-electric-range-with-blue-interior-dollar450-or-econoelectroservices"
+    },
+    "reviewFlags": [
+      "Garantie mentionnée dans l'annonce d'origine (« 3-month warranty ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M19WVEYK2S8EEC397A31JBRV",
+    "slug": "cuisiniere-electrique-whirlpool-a-four-autonettoyant",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Cuisinière électrique Whirlpool à four autonettoyant",
+      "en": "Whirlpool Electric Range with Self-Cleaning Oven"
+    },
+    "shortDescription": {
+      "fr": "Surface vitrée, four autonettoyant spacieux, boutons de commande simples.",
+      "en": "Glass cooktop, roomy self-cleaning oven, simple control knobs."
+    },
+    "description": {
+      "fr": "Cuisinière électrique Whirlpool en acier inoxydable avec surface de cuisson vitrée, four autonettoyant spacieux et boutons de commande faciles à utiliser. Appareil d'occasion inspecté avant la vente.",
+      "en": "Whirlpool stainless steel electric range with a glass cooktop, a spacious self-cleaning oven and easy-to-use control knobs. Pre-owned unit inspected before sale."
+    },
+    "category": "cuisinieres",
+    "subcategory": "electrique",
+    "brand": "Whirlpool",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 350,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m19wveyk2s8eec397a31jbrv/1.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Whirlpool à four autonettoyant – photo 1",
+          "en": "Whirlpool Electric Range with Self-Cleaning Oven – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/8d20a867-54c2-4359-a599-47fbe5275452.jpg",
+          "file": "prod_01M19WVEYK2S8EEC397A31JBRV__8d20a867-54c2-4359-a599-47fbe5275452.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m19wveyk2s8eec397a31jbrv/2.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Whirlpool à four autonettoyant – photo 2",
+          "en": "Whirlpool Electric Range with Self-Cleaning Oven – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/891f0859-84e4-4572-850f-1b0a8943cf1e.jpg",
+          "file": "prod_01M19WVEYK2S8EEC397A31JBRV__891f0859-84e4-4572-850f-1b0a8943cf1e.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m19wveyk2s8eec397a31jbrv/3.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Whirlpool à four autonettoyant – photo 3",
+          "en": "Whirlpool Electric Range with Self-Cleaning Oven – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/e03bbf95-ea22-405d-82a1-99247f292397.jpg",
+          "file": "prod_01M19WVEYK2S8EEC397A31JBRV__e03bbf95-ea22-405d-82a1-99247f292397.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": true,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Four",
+          "en": "Oven"
+        },
+        "value": {
+          "fr": "Autonettoyant",
+          "en": "Self-cleaning"
+        }
+      },
+      {
+        "label": {
+          "fr": "Commandes",
+          "en": "Controls"
+        },
+        "value": {
+          "fr": "Boutons rotatifs",
+          "en": "Knobs"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Cuisinière électrique Whirlpool à four autonettoyant | Écono Électro Laval",
+      "en": "Whirlpool Electric Range with Self-Cleaning Oven | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Surface vitrée, four autonettoyant spacieux, boutons de commande simples. Offert à 350 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Glass cooktop, roomy self-cleaning oven, simple control knobs. Offered at $350. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-30T17:53:07.027Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M19WVEYK2S8EEC397A31JBRV",
+      "originalName": "Whirlpool Stainless Steel Electric Range – $350 | EconoElectroServices",
+      "originalSlug": "whirlpool-stainless-steel-electric-range-dollar350-or-econoelectroservices",
+      "originalUrl": "https://www.econoelectroservices.com/whirlpool-stainless-steel-electric-range-dollar350-or-econoelectroservices"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M19TREDHHDAM4Z744EWWDNWF",
+    "slug": "cuisiniere-electrique-maytag-gemini-a-double-four",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Cuisinière électrique Maytag Gemini à double four",
+      "en": "Maytag Gemini Double-Oven Electric Range"
+    },
+    "shortDescription": {
+      "fr": "Deux fours indépendants, surface vitrocéramique, fini acier inoxydable.",
+      "en": "Two independent ovens, ceramic glass cooktop, stainless finish."
+    },
+    "description": {
+      "fr": "Cuisinière électrique Maytag Gemini à double four en acier inoxydable. Les deux fours permettent de préparer plusieurs plats simultanément à des températures différentes, et la surface de cuisson en vitrocéramique facilite le nettoyage.",
+      "en": "Maytag Gemini double-oven electric range in stainless steel. The two ovens let you cook several dishes at different temperatures at once, and the ceramic glass cooktop makes cleanup easy."
+    },
+    "category": "cuisinieres",
+    "subcategory": "double-four",
+    "brand": "Maytag",
+    "model": "Gemini",
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 420,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m19tredhhdam4z744ewwdnwf/1.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Maytag Gemini à double four – photo 1",
+          "en": "Maytag Gemini Double-Oven Electric Range – photo 1"
+        },
+        "width": 660,
+        "height": 830,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/84d7ecaa-4c32-499b-b4c7-fd765e657804.png",
+          "file": "prod_01M19TREDHHDAM4Z744EWWDNWF__84d7ecaa-4c32-499b-b4c7-fd765e657804.png",
+          "crop": [
+            60,
+            340,
+            720,
+            1170
+          ]
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": true,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Configuration",
+          "en": "Configuration"
+        },
+        "value": {
+          "fr": "Double four",
+          "en": "Double oven"
+        }
+      },
+      {
+        "label": {
+          "fr": "Surface de cuisson",
+          "en": "Cooktop"
+        },
+        "value": {
+          "fr": "Vitrocéramique",
+          "en": "Ceramic glass"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Cuisinière électrique Maytag Gemini à double four | Écono Électro Laval",
+      "en": "Maytag Gemini Double-Oven Electric Range | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Deux fours indépendants, surface vitrocéramique, fini acier inoxydable. Offert à 420 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Two independent ovens, ceramic glass cooktop, stainless finish. Offered at $420. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-30T17:16:31.025Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M19TREDHHDAM4Z744EWWDNWF",
+      "originalName": "Cuisinière électrique Maytag à double four ",
+      "originalSlug": "cuisiniere-electrique-maytag-a-double-four-",
+      "originalUrl": "https://www.econoelectroservices.com/cuisiniere-electrique-maytag-a-double-four-"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M0NENF710HPYAKEQ33NEHQBJ",
+    "slug": "laveuse-et-secheuse-samsung-grises",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Laveuse et sécheuse Samsung grises",
+      "en": "Samsung Grey Washer and Dryer"
+    },
+    "shortDescription": {
+      "fr": "Ensemble Samsung gris, 5 ensembles en stock.",
+      "en": "Samsung grey set, 5 sets in stock."
+    },
+    "description": {
+      "fr": "Laveuse et sécheuse Samsung en gris, performance fiable et excellente qualité. Cinq ensembles disponibles en stock à notre succursale de la rue Michelin.",
+      "en": "Samsung washer and dryer in grey, reliable performance and great quality. Five sets available in stock at our Michelin Street location."
+    },
+    "category": "laveuses-secheuses",
+    "subcategory": "ensemble-laveuse-secheuse",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 850,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Gris",
+      "en": "Grey"
+    },
+    "finish": "grey",
+    "images": [
+      {
+        "src": "/images/products/01m0nenf710hpyakeq33nehqbj/1.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse Samsung grises – photo 1",
+          "en": "Samsung Grey Washer and Dryer – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/54eaa247-0fff-4942-80a2-d421a3675314.jpg",
+          "file": "prod_01M0NENF710HPYAKEQ33NEHQBJ__54eaa247-0fff-4942-80a2-d421a3675314.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0nenf710hpyakeq33nehqbj/2.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse Samsung grises – photo 2",
+          "en": "Samsung Grey Washer and Dryer – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/0a5e2bb1-5117-4368-b2b0-12c3e696a84b.jpg",
+          "file": "prod_01M0NENF710HPYAKEQ33NEHQBJ__0a5e2bb1-5117-4368-b2b0-12c3e696a84b.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 5,
+    "inventoryPolicy": "multiple",
+    "locationId": "vimont",
+    "featured": true,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Laveuse et sécheuse Samsung grises | Écono Électro Laval",
+      "en": "Samsung Grey Washer and Dryer | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Ensemble Samsung gris, 5 ensembles en stock. Offert à 850 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Samsung grey set, 5 sets in stock. Offered at $850. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "available-today"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-22T19:20:21.985Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0NENF710HPYAKEQ33NEHQBJ",
+      "originalName": "🔥 LAVEUSE & SÉCHEUSE SAMSUNG – GRISES | SEULEMENT 850 $ ! 🔥",
+      "originalSlug": "-laveuse-and-secheuse-samsung-grises-or-seulement-850-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-laveuse-and-secheuse-samsung-grises-or-seulement-850-dollar-"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M0ND6XK1X12J6BJ3XQJ0Z0HA",
+    "slug": "laveuse-et-secheuse-lg-blanches",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Laveuse et sécheuse LG blanches",
+      "en": "LG White Washer and Dryer"
+    },
+    "shortDescription": {
+      "fr": "Ensemble performant et économe en énergie, grande capacité.",
+      "en": "Efficient, energy-saving set with large capacity."
+    },
+    "description": {
+      "fr": "Ensemble laveuse et sécheuse LG en blanc, performant et économe en énergie. Grande capacité et fonctionnement fiable pour tous vos besoins de lessive.",
+      "en": "LG washer and dryer set in white, efficient and energy-saving. Large capacity and reliable operation for all your laundry needs."
+    },
+    "category": "laveuses-secheuses",
+    "subcategory": "ensemble-laveuse-secheuse",
+    "brand": "LG",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 850,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Blanc",
+      "en": "White"
+    },
+    "finish": "white",
+    "images": [
+      {
+        "src": "/images/products/01m0nd6xk1x12j6bj3xqj0z0ha/1.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse LG blanches – photo 1",
+          "en": "LG White Washer and Dryer – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/746deea7-c3bb-41f9-a31e-946c148ed975.jpg",
+          "file": "prod_01M0ND6XK1X12J6BJ3XQJ0Z0HA__746deea7-c3bb-41f9-a31e-946c148ed975.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0nd6xk1x12j6bj3xqj0z0ha/2.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse LG blanches – photo 2",
+          "en": "LG White Washer and Dryer – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/35e390cb-8574-4715-889e-13444cdfc8bb.jpg",
+          "file": "prod_01M0ND6XK1X12J6BJ3XQJ0Z0HA__35e390cb-8574-4715-889e-13444cdfc8bb.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0nd6xk1x12j6bj3xqj0z0ha/3.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse LG blanches – photo 3",
+          "en": "LG White Washer and Dryer – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/08757bdf-39fe-4e61-a6e4-691c186de31d.jpg",
+          "file": "prod_01M0ND6XK1X12J6BJ3XQJ0Z0HA__08757bdf-39fe-4e61-a6e4-691c186de31d.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": true,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Laveuse et sécheuse LG blanches | Écono Électro Laval",
+      "en": "LG White Washer and Dryer | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Ensemble performant et économe en énergie, grande capacité. Offert à 850 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Efficient, energy-saving set with large capacity. Offered at $850. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-22T18:54:56.609Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0ND6XK1X12J6BJ3XQJ0Z0HA",
+      "originalName": "Laveuse et Sécheuse LG",
+      "originalSlug": "laveuse-et-secheuse-lg",
+      "originalUrl": "https://www.econoelectroservices.com/laveuse-et-secheuse-lg"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M0K2VQJE6D66Z0VB8R62QHTE",
+    "slug": "refrigerateur-a-portes-francaises-samsung-twin-cooling-32-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 32 po",
+      "en": "Samsung Twin Cooling French-Door Refrigerator, 32 in."
+    },
+    "shortDescription": {
+      "fr": "Portes françaises, technologie Twin Cooling, acier inoxydable.",
+      "en": "French doors, Twin Cooling technology, stainless steel."
+    },
+    "description": {
+      "fr": "Réfrigérateur Samsung à portes françaises en acier inoxydable, avec technologie Twin Cooling pour garder les aliments frais et réduire le mélange des odeurs. Appareil remis à neuf. Dimensions : largeur 32 po, hauteur 70 po, profondeur 37 po.",
+      "en": "Samsung French-door refrigerator in stainless steel, with Twin Cooling technology to keep food fresh and reduce odour mixing. Refurbished unit. Dimensions: 32 in. W × 70 in. H × 37 in. D."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 850,
+    "compareAtPrice": 999,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 32,
+      "heightIn": 70,
+      "depthIn": 37
+    },
+    "width": 32,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0k2vqje6d66z0vb8r62qhte/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 32 po – photo 1",
+          "en": "Samsung Twin Cooling French-Door Refrigerator, 32 in. – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/399cad33-5c34-45ae-bc78-06e2e147b815.jpg",
+          "file": "prod_01M0K2VQJE6D66Z0VB8R62QHTE__399cad33-5c34-45ae-bc78-06e2e147b815.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0k2vqje6d66z0vb8r62qhte/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 32 po – photo 2",
+          "en": "Samsung Twin Cooling French-Door Refrigerator, 32 in. – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/9842afb1-4c20-4c4a-8cf9-5452a9d6cc74.jpg",
+          "file": "prod_01M0K2VQJE6D66Z0VB8R62QHTE__9842afb1-4c20-4c4a-8cf9-5452a9d6cc74.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": true,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie de 3 mois",
+    "specifications": [
+      {
+        "label": {
+          "fr": "Technologie",
+          "en": "Technology"
+        },
+        "value": {
+          "fr": "Twin Cooling",
+          "en": "Twin Cooling"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 32 po | Écono Électro Laval",
+      "en": "Samsung Twin Cooling French-Door Refrigerator, 32 in. | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Portes françaises, technologie Twin Cooling, acier inoxydable. Offert à 850 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "French doors, Twin Cooling technology, stainless steel. Offered at $850. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-21T21:15:35.374Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0K2VQJE6D66Z0VB8R62QHTE",
+      "originalName": "✨ French Door Réfrigérateur Samsung – Technologie Twin Cooling",
+      "originalSlug": "-refrigerateur-samsung-technologie-twin-cooling1",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateur-samsung-technologie-twin-cooling1"
+    },
+    "reviewFlags": [
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie de 3 mois ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0K1GBRE64XMXJDM3MBT77D2",
+    "slug": "refrigerateur-a-portes-francaises-samsung-twin-cooling-37-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 37 po",
+      "en": "Samsung Twin Cooling French-Door Refrigerator, 37 in."
+    },
+    "shortDescription": {
+      "fr": "Trois portes, congélateur spacieux en bas, fini résistant aux traces de doigts.",
+      "en": "Three doors, spacious bottom freezer, fingerprint-resistant finish."
+    },
+    "description": {
+      "fr": "Réfrigérateur Samsung à trois portes en acier inoxydable, avec congélateur spacieux en bas et portes françaises pour un accès facile aux aliments frais. Finition résistante aux traces de doigts et technologie Twin Cooling. Dimensions : largeur 37 po, hauteur 70 po, profondeur 34 po.",
+      "en": "Samsung three-door stainless steel refrigerator with a spacious bottom freezer and French doors for easy access to fresh food. Fingerprint-resistant finish and Twin Cooling technology. Dimensions: 37 in. W × 70 in. H × 34 in. D."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 1200,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 37,
+      "heightIn": 70,
+      "depthIn": 34
+    },
+    "width": 37,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0k1gbre64xmxjdm3mbt77d2/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 37 po – photo 1",
+          "en": "Samsung Twin Cooling French-Door Refrigerator, 37 in. – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/a6b9b870-9a96-4fd4-b05f-925063c811ab.jpg",
+          "file": "prod_01M0K1GBRE64XMXJDM3MBT77D2__a6b9b870-9a96-4fd4-b05f-925063c811ab.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0k1gbre64xmxjdm3mbt77d2/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 37 po – photo 2",
+          "en": "Samsung Twin Cooling French-Door Refrigerator, 37 in. – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/b83d9f49-e686-4075-975d-ac70fa161317.jpg",
+          "file": "prod_01M0K1GBRE64XMXJDM3MBT77D2__b83d9f49-e686-4075-975d-ac70fa161317.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0k1gbre64xmxjdm3mbt77d2/3.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 37 po – photo 3",
+          "en": "Samsung Twin Cooling French-Door Refrigerator, 37 in. – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/2f735981-46fb-4e71-99bb-e74fce9ca28b.jpg",
+          "file": "prod_01M0K1GBRE64XMXJDM3MBT77D2__2f735981-46fb-4e71-99bb-e74fce9ca28b.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": true,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie de 3 mois",
+    "specifications": [
+      {
+        "label": {
+          "fr": "Technologie",
+          "en": "Technology"
+        },
+        "value": {
+          "fr": "Twin Cooling",
+          "en": "Twin Cooling"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur à portes françaises Samsung Twin Cooling, 37 po | Écono Électro Laval",
+      "en": "Samsung Twin Cooling French-Door Refrigerator, 37 in. | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Trois portes, congélateur spacieux en bas, fini résistant aux traces de doigts. Offert à 1200 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Three doors, spacious bottom freezer, fingerprint-resistant finish. Offered at $1200. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-21T20:51:54.254Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0K1GBRE64XMXJDM3MBT77D2",
+      "originalName": "✨ Réfrigérateur Samsung – Technologie Twin Cooling",
+      "originalSlug": "-refrigerateur-samsung-technologie-twin-cooling",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateur-samsung-technologie-twin-cooling"
+    },
+    "reviewFlags": [
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie de 3 mois ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M28RWP4M74JEYYWFP100Z0V2",
+    "slug": "refrigerateur-a-portes-francaises-en-acier-inoxydable-format-standard",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur à portes françaises en acier inoxydable, format standard",
+      "en": "Stainless Steel French-Door Refrigerator, Standard Size"
+    },
+    "shortDescription": {
+      "fr": "Format standard, grand espace de rangement, congélateur inférieur. Plusieurs modèles au même prix.",
+      "en": "Standard size, roomy interior, bottom freezer. Several models at the same price."
+    },
+    "description": {
+      "fr": "Réfrigérateur à portes françaises en acier inoxydable, de format standard. Grand espace de rangement et congélateur inférieur pratique. Plusieurs modèles sont offerts au même prix selon les stocks disponibles; communiquez avec nous pour connaître les modèles en magasin et réserver le vôtre.",
+      "en": "Standard-size stainless steel French-door refrigerator with a roomy interior and a convenient bottom freezer. Several models are offered at the same price depending on stock; contact us to know which models are in store and reserve yours."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 850,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m28rwp4m74jeyywfp100z0v2/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable, format standard – photo 1",
+          "en": "Stainless Steel French-Door Refrigerator, Standard Size – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/19e53faa-511f-49b3-a7fd-b78d14af57df.jpg",
+          "file": "prod_01M28RWP4M74JEYYWFP100Z0V2__19e53faa-511f-49b3-a7fd-b78d14af57df.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m28rwp4m74jeyywfp100z0v2/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable, format standard – photo 2",
+          "en": "Stainless Steel French-Door Refrigerator, Standard Size – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/7a671362-cba5-45a0-b49e-9f617484de98.jpg",
+          "file": "prod_01M28RWP4M74JEYYWFP100Z0V2__7a671362-cba5-45a0-b49e-9f617484de98.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m28rwp4m74jeyywfp100z0v2/3.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable, format standard – photo 3",
+          "en": "Stainless Steel French-Door Refrigerator, Standard Size – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/58d3da29-57b5-4aad-acbf-de36f307ac4c.jpg",
+          "file": "prod_01M28RWP4M74JEYYWFP100Z0V2__58d3da29-57b5-4aad-acbf-de36f307ac4c.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m28rwp4m74jeyywfp100z0v2/4.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable, format standard – photo 4",
+          "en": "Stainless Steel French-Door Refrigerator, Standard Size – photo 4"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/7de586c1-a380-4dfd-b874-193c81c4c534.jpg",
+          "file": "prod_01M28RWP4M74JEYYWFP100Z0V2__7de586c1-a380-4dfd-b874-193c81c4c534.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 2,
+    "inventoryPolicy": "multiple",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": true,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type"
+        },
+        "value": {
+          "fr": "Portes françaises, congélateur inférieur",
+          "en": "French door, bottom freezer"
+        }
+      },
+      {
+        "label": {
+          "fr": "Format",
+          "en": "Size"
+        },
+        "value": {
+          "fr": "Standard",
+          "en": "Standard"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur à portes françaises en acier inoxydable, format standard | Écono Électro Laval",
+      "en": "Stainless Steel French-Door Refrigerator, Standard Size | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Format standard, grand espace de rangement, congélateur inférieur. Plusieurs modèles au même prix. Offert à 850 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Standard size, roomy interior, bottom freezer. Several models at the same price. Offered at $850. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "limited-stock",
+      "new-arrival"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-09-11T17:40:20.244Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M28RWP4M74JEYYWFP100Z0V2",
+      "originalName": "🔥 RÉFRIGÉRATEURS À PORTES FRANÇAISES — SEULEMENT 850 $ 🔥",
+      "originalSlug": "-refrigerateurs-a-portes-francaises-seulement-850-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateurs-a-portes-francaises-seulement-850-dollar-"
+    },
+    "reviewFlags": [
+      "Marque non précisée (plusieurs modèles). Quantité exacte à confirmer (2 saisie par défaut d'après « plusieurs modèles »).",
+      "Marque non identifiée."
+    ]
+  },
+  {
+    "id": "prod_01M1PZX7N9GBNYXSS3TSR17YJZ",
+    "slug": "cuisiniere-electrique-whirlpool-en-acier-inoxydable",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Cuisinière électrique Whirlpool en acier inoxydable",
+      "en": "Whirlpool Stainless Steel Electric Range"
+    },
+    "shortDescription": {
+      "fr": "Surface de cuisson en vitrocéramique, finition moderne en acier inoxydable.",
+      "en": "Ceramic glass cooktop, modern stainless steel finish."
+    },
+    "description": {
+      "fr": "Cuisinière électrique Whirlpool en acier inoxydable avec surface de cuisson en vitrocéramique. En stock à notre succursale de la rue Michelin.",
+      "en": "Whirlpool stainless steel electric range with a ceramic glass cooktop. In stock at our Michelin Street location."
+    },
+    "category": "cuisinieres",
+    "subcategory": "electrique",
+    "brand": "Whirlpool",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 600,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m1pzx7n9gbnyxss3tsr17yjz/1.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Whirlpool en acier inoxydable – photo 1",
+          "en": "Whirlpool Stainless Steel Electric Range – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/35709b42-9fd5-4100-ba3d-7bec34ab9542.jpg",
+          "file": "prod_01M1PZX7N9GBNYXSS3TSR17YJZ__35709b42-9fd5-4100-ba3d-7bec34ab9542.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pzx7n9gbnyxss3tsr17yjz/2.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Whirlpool en acier inoxydable – photo 2",
+          "en": "Whirlpool Stainless Steel Electric Range – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/ed2b53aa-667f-4778-af73-719f172e19e4.jpg",
+          "file": "prod_01M1PZX7N9GBNYXSS3TSR17YJZ__ed2b53aa-667f-4778-af73-719f172e19e4.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": true,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type"
+        },
+        "value": {
+          "fr": "Cuisinière électrique",
+          "en": "Electric range"
+        }
+      },
+      {
+        "label": {
+          "fr": "Surface de cuisson",
+          "en": "Cooktop"
+        },
+        "value": {
+          "fr": "Vitrocéramique",
+          "en": "Ceramic glass"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Cuisinière électrique Whirlpool en acier inoxydable | Écono Électro Laval",
+      "en": "Whirlpool Stainless Steel Electric Range | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Surface de cuisson en vitrocéramique, finition moderne en acier inoxydable. Offert à 600 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Ceramic glass cooktop, modern stainless steel finish. Offered at $600. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "new-arrival"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-09-04T19:56:38.441Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M1PZX7N9GBNYXSS3TSR17YJZ",
+      "originalName": "🔥 CUISINIÈRE ÉLECTRIQUE WHIRLPOOL — SEULEMENT 600 $ 🔥",
+      "originalSlug": "-cuisiniere-electrique-whirlpool-seulement-600-dollar-1",
+      "originalUrl": "https://www.econoelectroservices.com/-cuisiniere-electrique-whirlpool-seulement-600-dollar-1"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M1PYHXZMV63MMB504HY2DXPP",
+    "slug": "cuisiniere-electrique-en-acier-inoxydable",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Cuisinière électrique en acier inoxydable",
+      "en": "Stainless Steel Electric Range"
+    },
+    "shortDescription": {
+      "fr": "Design moderne en acier inoxydable, en stock à Laval.",
+      "en": "Modern stainless steel design, in stock in Laval."
+    },
+    "description": {
+      "fr": "Cuisinière électrique au design moderne en acier inoxydable, en stock à notre succursale de la rue Michelin.",
+      "en": "Electric range with a modern stainless steel design, in stock at our Michelin Street location."
+    },
+    "category": "cuisinieres",
+    "subcategory": "electrique",
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 600,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m1pyhxzmv63mmb504hy2dxpp/1.webp",
+        "alt": {
+          "fr": "Cuisinière électrique en acier inoxydable – photo 1",
+          "en": "Stainless Steel Electric Range – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/1835de86-d570-4900-9a53-e56f8823d8a1.jpg",
+          "file": "prod_01M1PYHXZMV63MMB504HY2DXPP__1835de86-d570-4900-9a53-e56f8823d8a1.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pyhxzmv63mmb504hy2dxpp/2.webp",
+        "alt": {
+          "fr": "Cuisinière électrique en acier inoxydable – photo 2",
+          "en": "Stainless Steel Electric Range – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/36e98201-f489-4ab2-8c22-6462f0d42e89.jpg",
+          "file": "prod_01M1PYHXZMV63MMB504HY2DXPP__36e98201-f489-4ab2-8c22-6462f0d42e89.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": true,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type"
+        },
+        "value": {
+          "fr": "Cuisinière électrique",
+          "en": "Electric range"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Cuisinière électrique en acier inoxydable | Écono Électro Laval",
+      "en": "Stainless Steel Electric Range | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Design moderne en acier inoxydable, en stock à Laval. Offert à 600 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Modern stainless steel design, in stock in Laval. Offered at $600. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "new-arrival"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-09-04T19:32:59.508Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M1PYHXZMV63MMB504HY2DXPP",
+      "originalName": ".",
+      "originalSlug": "5615fd1d-af74-4aca-8eec-e37e45bffb9f",
+      "originalUrl": "https://www.econoelectroservices.com/5615fd1d-af74-4aca-8eec-e37e45bffb9f"
+    },
+    "reviewFlags": [
+      "Nom d'origine « . ». La description mentionne « L2 » : marque et modèle à confirmer.",
+      "Marque non identifiée."
+    ]
+  },
+  {
+    "id": "prod_01M1PWAA4M535EC5FA84TXNHAM",
+    "slug": "cuisiniere-whirlpool-a-surface-lisse-en-acier-inoxydable",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Cuisinière Whirlpool à surface lisse en acier inoxydable",
+      "en": "Whirlpool Smooth-Top Stainless Steel Range"
+    },
+    "shortDescription": {
+      "fr": "Surface de cuisson lisse, four spacieux et propre, inspectée avant la vente.",
+      "en": "Smooth cooktop, roomy clean oven, inspected before sale."
+    },
+    "description": {
+      "fr": "Cuisinière Whirlpool en acier inoxydable avec surface de cuisson lisse et four spacieux et propre. Qualité vérifiée et appareil inspecté avant la vente.",
+      "en": "Whirlpool stainless steel range with a smooth cooktop and a roomy, clean oven. Quality checked and inspected before sale."
+    },
+    "category": "cuisinieres",
+    "subcategory": "electrique",
+    "brand": "Whirlpool",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 600,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m1pwaa4m535ec5fa84txnham/1.webp",
+        "alt": {
+          "fr": "Cuisinière Whirlpool à surface lisse en acier inoxydable – photo 1",
+          "en": "Whirlpool Smooth-Top Stainless Steel Range – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/346e2368-fe60-4a94-84d9-d4589def5bb0.jpg",
+          "file": "prod_01M1PWAA4M535EC5FA84TXNHAM__346e2368-fe60-4a94-84d9-d4589def5bb0.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pwaa4m535ec5fa84txnham/2.webp",
+        "alt": {
+          "fr": "Cuisinière Whirlpool à surface lisse en acier inoxydable – photo 2",
+          "en": "Whirlpool Smooth-Top Stainless Steel Range – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/a25b9c9a-4842-4efa-b510-479b629faab1.jpg",
+          "file": "prod_01M1PWAA4M535EC5FA84TXNHAM__a25b9c9a-4842-4efa-b510-479b629faab1.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1pwaa4m535ec5fa84txnham/3.webp",
+        "alt": {
+          "fr": "Cuisinière Whirlpool à surface lisse en acier inoxydable – photo 3",
+          "en": "Whirlpool Smooth-Top Stainless Steel Range – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/c8c93404-d4cd-4139-a536-d548d6a68b55.jpg",
+          "file": "prod_01M1PWAA4M535EC5FA84TXNHAM__c8c93404-d4cd-4139-a536-d548d6a68b55.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": true,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Surface de cuisson",
+          "en": "Cooktop"
+        },
+        "value": {
+          "fr": "Lisse (vitrocéramique)",
+          "en": "Smooth (ceramic glass)"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Cuisinière Whirlpool à surface lisse en acier inoxydable | Écono Électro Laval",
+      "en": "Whirlpool Smooth-Top Stainless Steel Range | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Surface de cuisson lisse, four spacieux et propre, inspectée avant la vente. Offert à 600 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Smooth cooktop, roomy clean oven, inspected before sale. Offered at $600. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "new-arrival",
+      "limited-stock"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-09-04T18:53:52.660Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M1PWAA4M535EC5FA84TXNHAM",
+      "originalName": "🔥 CUISINIÈRE INDUCTION WHIRLPOOL — SEULEMENT 600 $ 🔥",
+      "originalSlug": "-cuisiniere-electrique-whirlpool-seulement-600-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-cuisiniere-electrique-whirlpool-seulement-600-dollar-"
+    },
+    "reviewFlags": [
+      "Titre d'origine « induction », description « électrique » : type de surface à confirmer."
+    ]
+  },
+  {
+    "id": "prod_01M1A5CMFXV5TGEA2PMDKVPTNN",
+    "slug": "cuisiniere-electrique-amana-en-acier-inoxydable",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Cuisinière électrique Amana en acier inoxydable",
+      "en": "Amana Stainless Steel Electric Range"
+    },
+    "shortDescription": {
+      "fr": "Surface vitrocéramique, commandes numériques du four, tiroir de rangement.",
+      "en": "Ceramic glass cooktop, digital oven controls, storage drawer."
+    },
+    "description": {
+      "fr": "Cuisinière électrique Amana en acier inoxydable avec surface de cuisson en vitrocéramique facile à nettoyer et four spacieux. Commandes numériques du four et tiroir de rangement inférieur. Nettoyée et testée par notre équipe.",
+      "en": "Amana stainless steel electric range with an easy-to-clean ceramic glass cooktop and a spacious oven. Digital oven controls and bottom storage drawer. Cleaned and tested by our team."
+    },
+    "category": "cuisinieres",
+    "subcategory": "electrique",
+    "brand": "Amana",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 420,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m1a5cmfxv5tgea2pmdkvptnn/1.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Amana en acier inoxydable – photo 1",
+          "en": "Amana Stainless Steel Electric Range – photo 1"
+        },
+        "width": 896,
+        "height": 1195,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/8155d510-98aa-4fd3-869b-f365b0fbf54e.jpg",
+          "file": "prod_01M1A5CMFXV5TGEA2PMDKVPTNN__8155d510-98aa-4fd3-869b-f365b0fbf54e.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1a5cmfxv5tgea2pmdkvptnn/2.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Amana en acier inoxydable – photo 2",
+          "en": "Amana Stainless Steel Electric Range – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/51be5aae-2eb9-4b6b-981b-c525367c263c.jpg",
+          "file": "prod_01M1A5CMFXV5TGEA2PMDKVPTNN__51be5aae-2eb9-4b6b-981b-c525367c263c.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1a5cmfxv5tgea2pmdkvptnn/3.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Amana en acier inoxydable – photo 3",
+          "en": "Amana Stainless Steel Electric Range – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/e8d625c4-6c14-4335-a63e-c06d38b88ea6.jpg",
+          "file": "prod_01M1A5CMFXV5TGEA2PMDKVPTNN__e8d625c4-6c14-4335-a63e-c06d38b88ea6.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m1a5cmfxv5tgea2pmdkvptnn/4.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Amana en acier inoxydable – photo 4",
+          "en": "Amana Stainless Steel Electric Range – photo 4"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/d489957e-116d-401f-8db4-3ff8f92d7874.jpg",
+          "file": "prod_01M1A5CMFXV5TGEA2PMDKVPTNN__d489957e-116d-401f-8db4-3ff8f92d7874.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Surface de cuisson",
+          "en": "Cooktop"
+        },
+        "value": {
+          "fr": "Vitrocéramique",
+          "en": "Ceramic glass"
+        }
+      },
+      {
+        "label": {
+          "fr": "Commandes",
+          "en": "Controls"
+        },
+        "value": {
+          "fr": "Four à commandes numériques",
+          "en": "Digital oven controls"
+        }
+      },
+      {
+        "label": {
+          "fr": "Rangement",
+          "en": "Storage"
+        },
+        "value": {
+          "fr": "Tiroir inférieur",
+          "en": "Bottom drawer"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Cuisinière électrique Amana en acier inoxydable | Écono Électro Laval",
+      "en": "Amana Stainless Steel Electric Range | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Surface vitrocéramique, commandes numériques du four, tiroir de rangement. Offert à 420 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Ceramic glass cooktop, digital oven controls, storage drawer. Offered at $420. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-30T20:22:18.365Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M1A5CMFXV5TGEA2PMDKVPTNN",
+      "originalName": "Amana Stainless Steel Electric Stove-$420",
+      "originalSlug": "amana-stainless-steel-electric-stove-dollar420",
+      "originalUrl": "https://www.econoelectroservices.com/amana-stainless-steel-electric-stove-dollar420"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M19SVZB7PRMQDC6KCAM66G1R",
+    "slug": "cuisiniere-electrique-whirlpool-a-surface-vitroceramique",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Cuisinière électrique Whirlpool à surface vitrocéramique",
+      "en": "Whirlpool Electric Range with Ceramic Glass Cooktop"
+    },
+    "shortDescription": {
+      "fr": "Modèle en acier inoxydable avec surface vitrocéramique et four spacieux.",
+      "en": "Stainless steel model with ceramic glass cooktop and spacious oven."
+    },
+    "description": {
+      "fr": "Cuisinière électrique Whirlpool en acier inoxydable avec surface de cuisson en vitrocéramique et four spacieux. Une excellente option pour votre cuisine à prix abordable.",
+      "en": "Whirlpool stainless steel electric range with a ceramic glass cooktop and a spacious oven. A great, affordable option for your kitchen."
+    },
+    "category": "cuisinieres",
+    "subcategory": "electrique",
+    "brand": "Whirlpool",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 530,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m19svzb7prmqdc6kcam66g1r/1.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Whirlpool à surface vitrocéramique – photo 1",
+          "en": "Whirlpool Electric Range with Ceramic Glass Cooktop – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/b61d73c3-165b-40df-8047-00c55d578ae7.jpg",
+          "file": "prod_01M19SVZB7PRMQDC6KCAM66G1R__b61d73c3-165b-40df-8047-00c55d578ae7.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m19svzb7prmqdc6kcam66g1r/2.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Whirlpool à surface vitrocéramique – photo 2",
+          "en": "Whirlpool Electric Range with Ceramic Glass Cooktop – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/a31f4724-4988-4531-a7cb-36d085ff0376.jpg",
+          "file": "prod_01M19SVZB7PRMQDC6KCAM66G1R__a31f4724-4988-4531-a7cb-36d085ff0376.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m19svzb7prmqdc6kcam66g1r/3.webp",
+        "alt": {
+          "fr": "Cuisinière électrique Whirlpool à surface vitrocéramique – photo 3",
+          "en": "Whirlpool Electric Range with Ceramic Glass Cooktop – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/17d5bc91-b66d-40a1-8d4f-3079597340f8.jpg",
+          "file": "prod_01M19SVZB7PRMQDC6KCAM66G1R__17d5bc91-b66d-40a1-8d4f-3079597340f8.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Surface de cuisson",
+          "en": "Cooktop"
+        },
+        "value": {
+          "fr": "Vitrocéramique",
+          "en": "Ceramic glass"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Cuisinière électrique Whirlpool à surface vitrocéramique | Écono Électro Laval",
+      "en": "Whirlpool Electric Range with Ceramic Glass Cooktop | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Modèle en acier inoxydable avec surface vitrocéramique et four spacieux. Offert à 530 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Stainless steel model with ceramic glass cooktop and spacious oven. Offered at $530. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-30T17:00:58.087Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M19SVZB7PRMQDC6KCAM66G1R",
+      "originalName": "🔥 Cuisinière électrique Whirlpool à seulement 530 $!",
+      "originalSlug": "-cuisiniere-electrique-whirlpool-a-seulement-530-dollar",
+      "originalUrl": "https://www.econoelectroservices.com/-cuisiniere-electrique-whirlpool-a-seulement-530-dollar"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M17NT3ACZHY61A748M3C7XBB",
+    "slug": "ensemble-samsung-blanc-4-appareils",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Ensemble Samsung blanc 4 appareils",
+      "en": "Samsung White 4-Piece Appliance Set"
+    },
+    "shortDescription": {
+      "fr": "Réfrigérateur, cuisinière, laveuse et sécheuse Samsung en blanc.",
+      "en": "Samsung refrigerator, range, washer and dryer in white."
+    },
+    "description": {
+      "fr": "Donnez un style épuré à votre cuisine et à votre salle de lavage avec cet ensemble Samsung blanc : réfrigérateur, cuisinière, laveuse et sécheuse. Prix des appareils vendus séparément : réfrigérateur 750 $ (largeur 32 po, hauteur 70 po, profondeur 27 po), cuisinière 450 $, laveuse et sécheuse 800 $.",
+      "en": "Give your kitchen and laundry room a clean look with this Samsung white set: refrigerator, range, washer and dryer. Prices when sold separately: refrigerator $750 (32 in. W × 70 in. H × 27 in. D), range $450, washer and dryer $800."
+    },
+    "category": "ensembles",
+    "subcategory": "4-appareils",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 2000,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 32,
+      "heightIn": null,
+      "depthIn": null
+    },
+    "width": 32,
+    "color": {
+      "fr": "Blanc",
+      "en": "White"
+    },
+    "finish": "white",
+    "images": [],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [],
+    "includes": [
+      {
+        "fr": "Réfrigérateur Samsung blanc (750 $ séparément)",
+        "en": "Samsung white refrigerator ($750 separately)"
+      },
+      {
+        "fr": "Cuisinière Samsung blanche (450 $ séparément)",
+        "en": "Samsung white range ($450 separately)"
+      },
+      {
+        "fr": "Laveuse et sécheuse Samsung blanches (800 $ séparément)",
+        "en": "Samsung white washer and dryer ($800 separately)"
+      }
+    ],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Ensemble Samsung blanc 4 appareils | Écono Électro Laval",
+      "en": "Samsung White 4-Piece Appliance Set | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Réfrigérateur, cuisinière, laveuse et sécheuse Samsung en blanc. Offert à 2000 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Samsung refrigerator, range, washer and dryer in white. Offered at $2000. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-29T21:11:33.452Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M17NT3ACZHY61A748M3C7XBB",
+      "originalName": "ENSEMBLE SAMSUNG BLANC – ÉLECTROMÉNAGERS",
+      "originalSlug": "ensemble-samsung-blanc-electromenagers",
+      "originalUrl": "https://www.econoelectroservices.com/ensemble-samsung-blanc-electromenagers"
+    },
+    "reviewFlags": [
+      "Aucune photo réelle (seule une affiche promotionnelle existait). Photos des appareils à ajouter.",
+      "Aucune photo de produit utilisable."
+    ]
+  },
+  {
+    "id": "prod_01M17GM1F5PEHX63C1XBVZ2DBM",
+    "slug": "ensemble-samsung-4-appareils-avec-refrigerateur-a-portes-francaises",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Ensemble Samsung 4 appareils avec réfrigérateur à portes françaises",
+      "en": "Samsung 4-Piece Set with French-Door Refrigerator"
+    },
+    "shortDescription": {
+      "fr": "Réfrigérateur à portes françaises, laveuse, sécheuse et cuisinière Samsung.",
+      "en": "Samsung French-door refrigerator, washer, dryer and range."
+    },
+    "description": {
+      "fr": "Ensemble complet Samsung : réfrigérateur à portes françaises (900 $ séparément), laveuse et sécheuse (850 $ séparément) et cuisinière (500 $ séparément). Appareils testés et vérifiés avant la vente.",
+      "en": "Complete Samsung set: French-door refrigerator ($900 separately), washer and dryer ($850 separately) and range ($500 separately). Appliances tested and checked before sale."
+    },
+    "category": "ensembles",
+    "subcategory": "4-appareils",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 2250,
+    "compareAtPrice": 2500,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie de 3 mois",
+    "specifications": [],
+    "includes": [
+      {
+        "fr": "Réfrigérateur Samsung à portes françaises (900 $ séparément)",
+        "en": "Samsung French-door refrigerator ($900 separately)"
+      },
+      {
+        "fr": "Laveuse et sécheuse Samsung (850 $ séparément)",
+        "en": "Samsung washer and dryer ($850 separately)"
+      },
+      {
+        "fr": "Cuisinière Samsung (500 $ séparément)",
+        "en": "Samsung range ($500 separately)"
+      }
+    ],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Ensemble Samsung 4 appareils avec réfrigérateur à portes françaises | Écono Électro Laval",
+      "en": "Samsung 4-Piece Set with French-Door Refrigerator | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Réfrigérateur à portes françaises, laveuse, sécheuse et cuisinière Samsung. Offert à 2250 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Samsung French-door refrigerator, washer, dryer and range. Offered at $2250. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-29T19:40:52.069Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M17GM1F5PEHX63C1XBVZ2DBM",
+      "originalName": "PACK SAMSUNG – ECONO ELECTRO 🔥",
+      "originalSlug": "pack-samsung-econo-electro-",
+      "originalUrl": "https://www.econoelectroservices.com/pack-samsung-econo-electro-"
+    },
+    "reviewFlags": [
+      "Aucune photo réelle (affiche promotionnelle seulement). Photos à ajouter.",
+      "Aucune photo de produit utilisable.",
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie de 3 mois ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M17ER2FVR4DEQVYYSBKZABC5",
+    "slug": "ensemble-4-appareils-refrigerateur-cuisiniere-laveuse-et-secheuse",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Ensemble 4 appareils : réfrigérateur, cuisinière, laveuse et sécheuse",
+      "en": "4-Piece Set: Refrigerator, Range, Washer and Dryer"
+    },
+    "shortDescription": {
+      "fr": "Un ensemble complet testé et vérifié avant la vente.",
+      "en": "A complete set tested and checked before sale."
+    },
+    "description": {
+      "fr": "Ensemble complet pour la cuisine et la salle de lavage : réfrigérateur (800 $ séparément; largeur 32 po, hauteur 70 po, profondeur 27 po), cuisinière (500 $ séparément), laveuse et sécheuse (800 $ séparément). Tous nos appareils sont testés et vérifiés avant la vente.",
+      "en": "Complete set for the kitchen and laundry room: refrigerator ($800 separately; 32 in. W × 70 in. H × 27 in. D), range ($500 separately), washer and dryer ($800 separately). All our appliances are tested and checked before sale."
+    },
+    "category": "ensembles",
+    "subcategory": "4-appareils",
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 2100,
+    "compareAtPrice": 2500,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 32,
+      "heightIn": 70,
+      "depthIn": 27
+    },
+    "width": 32,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m17er2fvr4deqvyysbkzabc5/1.webp",
+        "alt": {
+          "fr": "Ensemble 4 appareils : réfrigérateur, cuisinière, laveuse et sécheuse – photo 1",
+          "en": "4-Piece Set: Refrigerator, Range, Washer and Dryer – photo 1"
+        },
+        "width": 880,
+        "height": 450,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/23c62994-25fc-453a-995c-99ec2966ae35.png",
+          "file": "prod_01M17ER2FVR4DEQVYYSBKZABC5__23c62994-25fc-453a-995c-99ec2966ae35.png",
+          "crop": [
+            0,
+            500,
+            880,
+            950
+          ]
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie de 3 mois",
+    "specifications": [],
+    "includes": [
+      {
+        "fr": "Réfrigérateur (800 $ séparément)",
+        "en": "Refrigerator ($800 separately)"
+      },
+      {
+        "fr": "Cuisinière (500 $ séparément)",
+        "en": "Range ($500 separately)"
+      },
+      {
+        "fr": "Laveuse et sécheuse (800 $ séparément)",
+        "en": "Washer and dryer ($800 separately)"
+      }
+    ],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Ensemble 4 appareils : réfrigérateur, cuisinière, laveuse et sécheuse | Écono Électro Laval",
+      "en": "4-Piece Set: Refrigerator, Range, Washer and Dryer | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Un ensemble complet testé et vérifié avant la vente. Offert à 2100 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "A complete set tested and checked before sale. Offered at $2100. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-29T19:08:07.035Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M17ER2FVR4DEQVYYSBKZABC5",
+      "originalName": "🏠 ECONO ELECTRO – VOTRE MAGASIN D’ÉLECTROMÉNAGERS DE CONFIANCE À LAVAL!",
+      "originalSlug": "-econo-electro-votre-magasin-delectromenagers-de-confiance-a-laval",
+      "originalUrl": "https://www.econoelectroservices.com/-econo-electro-votre-magasin-delectromenagers-de-confiance-a-laval"
+    },
+    "reviewFlags": [
+      "Titre d'origine était un slogan. Marques des appareils à confirmer.",
+      "Marque non identifiée.",
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie de 3 mois ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0NJFD5FC7Z5660SHZW6CZHV",
+    "slug": "laveuse-et-secheuse-samsung-compactes",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Laveuse et sécheuse Samsung compactes",
+      "en": "Samsung Compact Washer and Dryer"
+    },
+    "shortDescription": {
+      "fr": "Format compact idéal pour les appartements et les condos.",
+      "en": "Compact size, ideal for apartments and condos."
+    },
+    "description": {
+      "fr": "Laveuse et sécheuse Samsung au format compact, parfaites pour les appartements, les condos et les petits espaces. Conception peu encombrante, efficacité énergétique et performance fiable.",
+      "en": "Samsung compact washer and dryer, perfect for apartments, condos and smaller spaces. Space-saving design, energy efficient and reliable performance."
+    },
+    "category": "laveuses-secheuses",
+    "subcategory": "ensemble-laveuse-secheuse",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 830,
+    "compareAtPrice": 999,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": null,
+    "finish": null,
+    "images": [
+      {
+        "src": "/images/products/01m0njfd5fc7z5660shzw6czhv/1.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse Samsung compactes – photo 1",
+          "en": "Samsung Compact Washer and Dryer – photo 1"
+        },
+        "width": 1600,
+        "height": 1200,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/99f397e7-9672-48c5-bdb1-2d81c64fd70d.jpg",
+          "file": "prod_01M0NJFD5FC7Z5660SHZW6CZHV__99f397e7-9672-48c5-bdb1-2d81c64fd70d.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0njfd5fc7z5660shzw6czhv/2.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse Samsung compactes – photo 2",
+          "en": "Samsung Compact Washer and Dryer – photo 2"
+        },
+        "width": 1600,
+        "height": 1200,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/49ef4b76-ce9e-4549-907a-4f3d2befac10.jpg",
+          "file": "prod_01M0NJFD5FC7Z5660SHZW6CZHV__49ef4b76-ce9e-4549-907a-4f3d2befac10.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Format",
+          "en": "Size"
+        },
+        "value": {
+          "fr": "Compact",
+          "en": "Compact"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Laveuse et sécheuse Samsung compactes | Écono Électro Laval",
+      "en": "Samsung Compact Washer and Dryer | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Format compact idéal pour les appartements et les condos. Offert à 830 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Compact size, ideal for apartments and condos. Offered at $830. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-22T20:26:57.583Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0NJFD5FC7Z5660SHZW6CZHV",
+      "originalName": "✨ LAVEUSE & SÉCHEUSE SAMSUNG – MOINS DE 830 $ ! ✨",
+      "originalSlug": "-laveuse-and-secheuse-samsung-moins-de-830-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-laveuse-and-secheuse-samsung-moins-de-830-dollar-"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M0NHB2C7JA9QK7AKE69NB7MW",
+    "slug": "mini-laveuse-et-secheuse-ge",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Mini laveuse et sécheuse GE",
+      "en": "GE Mini Washer and Dryer"
+    },
+    "shortDescription": {
+      "fr": "Format compact idéal pour les appartements et les condos.",
+      "en": "Compact size, ideal for apartments and condos."
+    },
+    "description": {
+      "fr": "Mini laveuse et sécheuse GE, idéales pour les appartements, les condos et les petits espaces. Conception compacte et peu encombrante, efficacité énergétique et performance fiable.",
+      "en": "GE mini washer and dryer, ideal for apartments, condos and smaller spaces. Compact, space-saving design, energy efficient and reliable performance."
+    },
+    "category": "laveuses-secheuses",
+    "subcategory": "ensemble-laveuse-secheuse",
+    "brand": "GE",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 850,
+    "compareAtPrice": 999,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Blanc",
+      "en": "White"
+    },
+    "finish": "white",
+    "images": [],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Format",
+          "en": "Size"
+        },
+        "value": {
+          "fr": "Compact",
+          "en": "Compact"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Mini laveuse et sécheuse GE | Écono Électro Laval",
+      "en": "GE Mini Washer and Dryer | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Format compact idéal pour les appartements et les condos. Offert à 850 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Compact size, ideal for apartments and condos. Offered at $850. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-22T20:07:06.887Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0NHB2C7JA9QK7AKE69NB7MW",
+      "originalName": "✨ MINI LAVEUSE & SÉCHEUSE GE – MOINS DE 850 $ ! ✨",
+      "originalSlug": "-mini-laveuse-and-secheuse-ge-moins-de-850-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-mini-laveuse-and-secheuse-ge-moins-de-850-dollar-"
+    },
+    "reviewFlags": [
+      "Aucune photo réelle (affiche promotionnelle seulement). Photos à ajouter.",
+      "Aucune photo de produit utilisable."
+    ]
+  },
+  {
+    "id": "prod_01M0NG3GR3YEY76PNWHHXW6GZS",
+    "slug": "mini-laveuse-et-secheuse-blomberg",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Mini laveuse et sécheuse Blomberg",
+      "en": "Blomberg Mini Washer and Dryer"
+    },
+    "shortDescription": {
+      "fr": "Format compact idéal pour les appartements et les condos.",
+      "en": "Compact size, ideal for apartments and condos."
+    },
+    "description": {
+      "fr": "Mini laveuse et sécheuse Blomberg, parfaites pour les appartements, les condos et les petits espaces. Conception compacte, efficacité énergétique et performance fiable.",
+      "en": "Blomberg mini washer and dryer, perfect for apartments, condos and smaller spaces. Compact design, energy efficient and reliable performance."
+    },
+    "category": "laveuses-secheuses",
+    "subcategory": "ensemble-laveuse-secheuse",
+    "brand": "Blomberg",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 950,
+    "compareAtPrice": 1050,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Blanc",
+      "en": "White"
+    },
+    "finish": "white",
+    "images": [
+      {
+        "src": "/images/products/01m0ng3gr3yey76pnwhhxw6gzs/1.webp",
+        "alt": {
+          "fr": "Mini laveuse et sécheuse Blomberg – photo 1",
+          "en": "Blomberg Mini Washer and Dryer – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/817d748d-8873-47cc-943b-8c53d3d47e77.jpg",
+          "file": "prod_01M0NG3GR3YEY76PNWHHXW6GZS__817d748d-8873-47cc-943b-8c53d3d47e77.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0ng3gr3yey76pnwhhxw6gzs/2.webp",
+        "alt": {
+          "fr": "Mini laveuse et sécheuse Blomberg – photo 2",
+          "en": "Blomberg Mini Washer and Dryer – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/0598ca43-2e9b-45b7-b09f-e7486495ddec.jpg",
+          "file": "prod_01M0NG3GR3YEY76PNWHHXW6GZS__0598ca43-2e9b-45b7-b09f-e7486495ddec.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "vimont",
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [
+      {
+        "label": {
+          "fr": "Format",
+          "en": "Size"
+        },
+        "value": {
+          "fr": "Compact",
+          "en": "Compact"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Mini laveuse et sécheuse Blomberg | Écono Électro Laval",
+      "en": "Blomberg Mini Washer and Dryer | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Format compact idéal pour les appartements et les condos. Offert à 950 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Compact size, ideal for apartments and condos. Offered at $950. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-22T19:45:30.883Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0NG3GR3YEY76PNWHHXW6GZS",
+      "originalName": "✨ MINI LAVEUSE & SÉCHEUSE BLOMBERG – MOINS DE 950 $ ! ✨",
+      "originalSlug": "-mini-laveuse-and-secheuse-blomberg-moins-de-950-dollar-",
+      "originalUrl": "https://www.econoelectroservices.com/-mini-laveuse-and-secheuse-blomberg-moins-de-950-dollar-"
+    },
+    "reviewFlags": []
+  },
+  {
+    "id": "prod_01M0K57CRHSZ8V16V95RE2Y5QZ",
+    "slug": "ensemble-samsung-refrigerateur-cuisiniere-laveuse-et-secheuse",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Ensemble Samsung : réfrigérateur, cuisinière, laveuse et sécheuse",
+      "en": "Samsung Set: Refrigerator, Range, Washer and Dryer"
+    },
+    "shortDescription": {
+      "fr": "Ensemble Samsung complet à prix réduit.",
+      "en": "Complete Samsung set at a reduced price."
+    },
+    "description": {
+      "fr": "Ensemble d'électroménagers Samsung : réfrigérateur (1 200 $ séparément), cuisinière (650 $ séparément), laveuse et sécheuse (880 $ séparément).",
+      "en": "Samsung appliance set: refrigerator ($1,200 separately), range ($650 separately), washer and dryer ($880 separately)."
+    },
+    "category": "ensembles",
+    "subcategory": "4-appareils",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 2730,
+    "compareAtPrice": 3000,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0k57crhsz8v16v95re2y5qz/1.webp",
+        "alt": {
+          "fr": "Ensemble Samsung : réfrigérateur, cuisinière, laveuse et sécheuse – photo 1",
+          "en": "Samsung Set: Refrigerator, Range, Washer and Dryer – photo 1"
+        },
+        "width": 1086,
+        "height": 1448,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/08567356-52dd-46cc-ac07-4a68e121848b.jpg",
+          "file": "prod_01M0K57CRHSZ8V16V95RE2Y5QZ__08567356-52dd-46cc-ac07-4a68e121848b.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0k57crhsz8v16v95re2y5qz/2.webp",
+        "alt": {
+          "fr": "Ensemble Samsung : réfrigérateur, cuisinière, laveuse et sécheuse – photo 2",
+          "en": "Samsung Set: Refrigerator, Range, Washer and Dryer – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/aeef89f8-eb95-4b35-96aa-3dad7ba7db95.jpg",
+          "file": "prod_01M0K57CRHSZ8V16V95RE2Y5QZ__aeef89f8-eb95-4b35-96aa-3dad7ba7db95.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "3-Month Warranty",
+    "specifications": [],
+    "includes": [
+      {
+        "fr": "Réfrigérateur Samsung (1 200 $ séparément)",
+        "en": "Samsung refrigerator ($1,200 separately)"
+      },
+      {
+        "fr": "Cuisinière Samsung (650 $ séparément)",
+        "en": "Samsung range ($650 separately)"
+      },
+      {
+        "fr": "Laveuse et sécheuse Samsung (880 $ séparément)",
+        "en": "Samsung washer and dryer ($880 separately)"
+      }
+    ],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Ensemble Samsung : réfrigérateur, cuisinière, laveuse et sécheuse | Écono Électro Laval",
+      "en": "Samsung Set: Refrigerator, Range, Washer and Dryer | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Ensemble Samsung complet à prix réduit. Offert à 2730 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Complete Samsung set at a reduced price. Offered at $2730. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-21T21:56:54.673Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0K57CRHSZ8V16V95RE2Y5QZ",
+      "originalName": "Ensemble d’électroménagers Samsung – Super offre de fin de semaine!",
+      "originalSlug": "ensemble-delectromenagers-samsung-super-offre-de-fin-de-semaine",
+      "originalUrl": "https://www.econoelectroservices.com/ensemble-delectromenagers-samsung-super-offre-de-fin-de-semaine"
+    },
+    "reviewFlags": [
+      "Garantie mentionnée dans l'annonce d'origine (« 3-Month Warranty ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0K3HZQHMQSM9X8Q6CZQWBX7",
+    "slug": "refrigerateur-samsung-twin-cooling-en-acier-inoxydable-32-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur Samsung Twin Cooling en acier inoxydable, 32 po",
+      "en": "Samsung Twin Cooling Stainless Steel Refrigerator, 32 in."
+    },
+    "shortDescription": {
+      "fr": "Technologie Twin Cooling, boîtier en acier inoxydable.",
+      "en": "Twin Cooling technology, stainless steel body."
+    },
+    "description": {
+      "fr": "Réfrigérateur Samsung en acier inoxydable doté de la technologie Twin Cooling, qui aide à garder les aliments frais et à réduire le mélange des odeurs. Dimensions : largeur 32 po, hauteur 70 po, profondeur 37 po.",
+      "en": "Samsung stainless steel refrigerator with Twin Cooling technology, which helps keep food fresh and reduces odour mixing. Dimensions: 32 in. W × 70 in. H × 37 in. D."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "congelateur-bas",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 850,
+    "compareAtPrice": 999,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 32,
+      "heightIn": 70,
+      "depthIn": 37
+    },
+    "width": 32,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0k3hzqhmqsm9x8q6czqwbx7/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur Samsung Twin Cooling en acier inoxydable, 32 po – photo 1",
+          "en": "Samsung Twin Cooling Stainless Steel Refrigerator, 32 in. – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/2e3b14a6-6595-4b69-8a86-dd75572903c4.jpg",
+          "file": "prod_01M0K3HZQHMQSM9X8Q6CZQWBX7__2e3b14a6-6595-4b69-8a86-dd75572903c4.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0k3hzqhmqsm9x8q6czqwbx7/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur Samsung Twin Cooling en acier inoxydable, 32 po – photo 2",
+          "en": "Samsung Twin Cooling Stainless Steel Refrigerator, 32 in. – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/04663ec3-fa54-4be7-8a3d-1c3f875e1767.jpg",
+          "file": "prod_01M0K3HZQHMQSM9X8Q6CZQWBX7__04663ec3-fa54-4be7-8a3d-1c3f875e1767.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie de 3 mois",
+    "specifications": [
+      {
+        "label": {
+          "fr": "Technologie",
+          "en": "Technology"
+        },
+        "value": {
+          "fr": "Twin Cooling",
+          "en": "Twin Cooling"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur Samsung Twin Cooling en acier inoxydable, 32 po | Écono Électro Laval",
+      "en": "Samsung Twin Cooling Stainless Steel Refrigerator, 32 in. | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Technologie Twin Cooling, boîtier en acier inoxydable. Offert à 850 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Twin Cooling technology, stainless steel body. Offered at $850. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-21T21:27:44.625Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0K3HZQHMQSM9X8Q6CZQWBX7",
+      "originalName": "✨ Réfrigérateur Samsung – Technologie Twin Cooling",
+      "originalSlug": "-refrigerateur-samsung-technologie-twin-cooling2",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateur-samsung-technologie-twin-cooling2"
+    },
+    "reviewFlags": [
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie de 3 mois ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0JZYCHCD9DVBHDEY2H7GPQM",
+    "slug": "refrigerateur-a-portes-francaises-samsung-blanc-33-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur à portes françaises Samsung blanc, 33 po",
+      "en": "Samsung White French-Door Refrigerator, 33 in."
+    },
+    "shortDescription": {
+      "fr": "Étagères modulables, tiroir congélateur en bas, fini blanc.",
+      "en": "Adjustable shelves, bottom freezer drawer, white finish."
+    },
+    "description": {
+      "fr": "Réfrigérateur Samsung blanc à portes françaises offrant une grande capacité grâce à ses étagères modulables et à son tiroir congélateur en bas. Appareil remis à neuf. Dimensions : largeur 33 po, hauteur 67 po, profondeur 33 po.",
+      "en": "Samsung white French-door refrigerator with generous capacity thanks to adjustable shelves and a bottom freezer drawer. Refurbished unit. Dimensions: 33 in. W × 67 in. H × 33 in. D."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 800,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 33,
+      "heightIn": 67,
+      "depthIn": 33
+    },
+    "width": 33,
+    "color": {
+      "fr": "Blanc",
+      "en": "White"
+    },
+    "finish": "white",
+    "images": [
+      {
+        "src": "/images/products/01m0jzychcd9dvbhdey2h7gpqm/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung blanc, 33 po – photo 1",
+          "en": "Samsung White French-Door Refrigerator, 33 in. – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/b3573f81-60b5-4d6b-bd68-1851b4edb974.jpg",
+          "file": "prod_01M0JZYCHCD9DVBHDEY2H7GPQM__b3573f81-60b5-4d6b-bd68-1851b4edb974.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jzychcd9dvbhdey2h7gpqm/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung blanc, 33 po – photo 2",
+          "en": "Samsung White French-Door Refrigerator, 33 in. – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/a81e3375-1dfc-4ff8-a1c8-b08849cda399.jpg",
+          "file": "prod_01M0JZYCHCD9DVBHDEY2H7GPQM__a81e3375-1dfc-4ff8-a1c8-b08849cda399.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie 10 ans sur le compresseur",
+    "specifications": [],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur à portes françaises Samsung blanc, 33 po | Écono Électro Laval",
+      "en": "Samsung White French-Door Refrigerator, 33 in. | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Étagères modulables, tiroir congélateur en bas, fini blanc. Offert à 800 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Adjustable shelves, bottom freezer drawer, white finish. Offered at $800. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-21T20:24:36.652Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0JZYCHCD9DVBHDEY2H7GPQM",
+      "originalName": "Réfrigérateur Blanche Samsung  à portes françaises",
+      "originalSlug": "refrigerateur-blanche-samsung-a-portes-francaises",
+      "originalUrl": "https://www.econoelectroservices.com/refrigerateur-blanche-samsung-a-portes-francaises"
+    },
+    "reviewFlags": [
+      "L'annonce d'origine mentionnait « Garantie 10 ans sur le compresseur » (garantie du fabricant) : non affiché tant que non confirmé.",
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie 10 ans sur le compresseur ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0JZ30DMHN2STKR6Q7Y8EP2C",
+    "slug": "refrigerateur-ge-profile-a-congelateur-inferieur-33-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur GE Profile à congélateur inférieur, 33 po",
+      "en": "GE Profile Bottom-Freezer Refrigerator, 33 in."
+    },
+    "shortDescription": {
+      "fr": "Congélateur en bas, grand espace de rangement, fini acier inoxydable.",
+      "en": "Bottom freezer, roomy interior, stainless steel finish."
+    },
+    "description": {
+      "fr": "Réfrigérateur GE Profile en acier inoxydable avec congélateur en bas. Grand espace de rangement pour les aliments frais et surgelés, finition moderne. Appareil remis à neuf. Dimensions : largeur 33 po, hauteur 69 po, profondeur 31 po.",
+      "en": "GE Profile stainless steel refrigerator with a bottom freezer. Roomy storage for fresh and frozen food, modern finish. Refurbished unit. Dimensions: 33 in. W × 69 in. H × 31 in. D."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "congelateur-bas",
+    "brand": "GE Profile",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 800,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 33,
+      "heightIn": 69,
+      "depthIn": 31
+    },
+    "width": 33,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0jz30dmhn2stkr6q7y8ep2c/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur GE Profile à congélateur inférieur, 33 po – photo 1",
+          "en": "GE Profile Bottom-Freezer Refrigerator, 33 in. – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/29af797b-abd3-4514-a5bd-db640a1fa8b7.jpg",
+          "file": "prod_01M0JZ30DMHN2STKR6Q7Y8EP2C__29af797b-abd3-4514-a5bd-db640a1fa8b7.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jz30dmhn2stkr6q7y8ep2c/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur GE Profile à congélateur inférieur, 33 po – photo 2",
+          "en": "GE Profile Bottom-Freezer Refrigerator, 33 in. – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/a96564f6-a540-41f6-97e5-05169aa89924.jpg",
+          "file": "prod_01M0JZ30DMHN2STKR6Q7Y8EP2C__a96564f6-a540-41f6-97e5-05169aa89924.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jz30dmhn2stkr6q7y8ep2c/3.webp",
+        "alt": {
+          "fr": "Réfrigérateur GE Profile à congélateur inférieur, 33 po – photo 3",
+          "en": "GE Profile Bottom-Freezer Refrigerator, 33 in. – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/e47d450a-0ec1-4595-85f1-318b6764ebe1.jpg",
+          "file": "prod_01M0JZ30DMHN2STKR6Q7Y8EP2C__e47d450a-0ec1-4595-85f1-318b6764ebe1.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie de 3 mois",
+    "specifications": [],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur GE Profile à congélateur inférieur, 33 po | Écono Électro Laval",
+      "en": "GE Profile Bottom-Freezer Refrigerator, 33 in. | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Congélateur en bas, grand espace de rangement, fini acier inoxydable. Offert à 800 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Bottom freezer, roomy interior, stainless steel finish. Offered at $800. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-21T20:09:39.508Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0JZ30DMHN2STKR6Q7Y8EP2C",
+      "originalName": "✨ Réfrigérateur GE-Profile-Stainless Steel",
+      "originalSlug": "-refrigerateur-ge-profile-stainless-steel",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateur-ge-profile-stainless-steel"
+    },
+    "reviewFlags": [
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie de 3 mois ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0JYF459F19XD8XSTVWZVA97",
+    "slug": "congelateur-vertical-en-acier-inoxydable-38-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Congélateur vertical en acier inoxydable, 38 po",
+      "en": "Stainless Steel Upright Freezer, 38 in."
+    },
+    "shortDescription": {
+      "fr": "Grande capacité, porte pleine, idéal pour les familles et la restauration.",
+      "en": "Large capacity, solid door, ideal for families and food service."
+    },
+    "description": {
+      "fr": "Congélateur vertical en acier inoxydable, idéal pour stocker de grandes quantités d'aliments surgelés. Porte pleine et accès facile aux produits; convient aux familles comme aux espaces de restauration. Appareil remis à neuf. Dimensions : largeur 38 po, hauteur 70 po, profondeur 29 po.",
+      "en": "Stainless steel upright freezer, ideal for storing large quantities of frozen food. Solid door and easy access; suits families as well as food-service spaces. Refurbished unit. Dimensions: 38 in. W × 70 in. H × 29 in. D."
+    },
+    "category": "autres",
+    "subcategory": "congelateur",
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 800,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 38,
+      "heightIn": 70,
+      "depthIn": 29
+    },
+    "width": 38,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0jyf459f19xd8xstvwzva97/1.webp",
+        "alt": {
+          "fr": "Congélateur vertical en acier inoxydable, 38 po – photo 1",
+          "en": "Stainless Steel Upright Freezer, 38 in. – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/c3c013aa-1d64-48cd-936a-8f3d5e48e729.jpg",
+          "file": "prod_01M0JYF459F19XD8XSTVWZVA97__c3c013aa-1d64-48cd-936a-8f3d5e48e729.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jyf459f19xd8xstvwzva97/2.webp",
+        "alt": {
+          "fr": "Congélateur vertical en acier inoxydable, 38 po – photo 2",
+          "en": "Stainless Steel Upright Freezer, 38 in. – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/90c4e1ff-2ba1-46f1-9d5d-b57973415fd2.jpg",
+          "file": "prod_01M0JYF459F19XD8XSTVWZVA97__90c4e1ff-2ba1-46f1-9d5d-b57973415fd2.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie de 3 mois",
+    "specifications": [],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Congélateur vertical en acier inoxydable, 38 po | Écono Électro Laval",
+      "en": "Stainless Steel Upright Freezer, 38 in. | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Grande capacité, porte pleine, idéal pour les familles et la restauration. Offert à 800 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Large capacity, solid door, ideal for families and food service. Offered at $800. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-21T19:58:47.977Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0JYF459F19XD8XSTVWZVA97",
+      "originalName": "Congélateur vertical en inox",
+      "originalSlug": "congelateur-vertical-en-inox",
+      "originalUrl": "https://www.econoelectroservices.com/congelateur-vertical-en-inox"
+    },
+    "reviewFlags": [
+      "Marque non précisée (la description d'origine mentionnait « Ellipse », probablement copié d'une autre annonce).",
+      "Marque non identifiée.",
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie de 3 mois ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0JWAWGDY4JF5A243X0WYGTX",
+    "slug": "refrigerateur-ge-avec-filtration-d-eau-33-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur GE avec filtration d'eau, 33 po",
+      "en": "GE Refrigerator with Water Filtration, 33 in."
+    },
+    "shortDescription": {
+      "fr": "Eau fraîche et filtrée directement au réfrigérateur, boîtier en acier inoxydable.",
+      "en": "Fresh filtered water right at the fridge, stainless steel body."
+    },
+    "description": {
+      "fr": "Réfrigérateur GE en acier inoxydable avec système de filtration d'eau. Appareil remis à neuf. Dimensions : largeur 33 po, hauteur 68 po, profondeur 32 po.",
+      "en": "GE stainless steel refrigerator with a water filtration system. Refurbished unit. Dimensions: 33 in. W × 68 in. H × 32 in. D."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": "GE",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 800,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 33,
+      "heightIn": 68,
+      "depthIn": 32
+    },
+    "width": 33,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0jwawgdy4jf5a243x0wygtx/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur GE avec filtration d'eau, 33 po – photo 1",
+          "en": "GE Refrigerator with Water Filtration, 33 in. – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/d9f5ed74-75c3-42e4-b708-e207e36a1e2d.jpg",
+          "file": "prod_01M0JWAWGDY4JF5A243X0WYGTX__d9f5ed74-75c3-42e4-b708-e207e36a1e2d.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jwawgdy4jf5a243x0wygtx/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur GE avec filtration d'eau, 33 po – photo 2",
+          "en": "GE Refrigerator with Water Filtration, 33 in. – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/d69497b5-328c-4fa0-8c91-57365ed77ff8.jpg",
+          "file": "prod_01M0JWAWGDY4JF5A243X0WYGTX__d69497b5-328c-4fa0-8c91-57365ed77ff8.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jwawgdy4jf5a243x0wygtx/3.webp",
+        "alt": {
+          "fr": "Réfrigérateur GE avec filtration d'eau, 33 po – photo 3",
+          "en": "GE Refrigerator with Water Filtration, 33 in. – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/589238c0-a025-46d5-8cbf-4ca28a5a2c76.jpg",
+          "file": "prod_01M0JWAWGDY4JF5A243X0WYGTX__589238c0-a025-46d5-8cbf-4ca28a5a2c76.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "Garantie de 3 mois",
+    "specifications": [
+      {
+        "label": {
+          "fr": "Filtration",
+          "en": "Filtration"
+        },
+        "value": {
+          "fr": "Filtre à eau intégré",
+          "en": "Built-in water filter"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur GE avec filtration d'eau, 33 po | Écono Électro Laval",
+      "en": "GE Refrigerator with Water Filtration, 33 in. | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Eau fraîche et filtrée directement au réfrigérateur, boîtier en acier inoxydable. Offert à 800 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Fresh filtered water right at the fridge, stainless steel body. Offered at $800. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-21T19:21:31.917Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0JWAWGDY4JF5A243X0WYGTX",
+      "originalName": "•\\t✨ Réfrigérateur GE – Water filteration technology",
+      "originalSlug": "-refrigerateur-ge-water-filteration-technology",
+      "originalUrl": "https://www.econoelectroservices.com/-refrigerateur-ge-water-filteration-technology"
+    },
+    "reviewFlags": [
+      "Garantie mentionnée dans l'annonce d'origine (« Garantie de 3 mois ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0JVMBN6EF1X1JWXS8W0ZEZM",
+    "slug": "refrigerateur-maytag-de-36-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur Maytag de 36 po",
+      "en": "Maytag 36-in. Refrigerator"
+    },
+    "shortDescription": {
+      "fr": "Tablettes en verre ajustables, plusieurs tiroirs spacieux, filtre Fresh Flow.",
+      "en": "Adjustable glass shelves, several roomy drawers, Fresh Flow filter."
+    },
+    "description": {
+      "fr": "Réfrigérateur Maytag spacieux et bien organisé : tablettes en verre ajustables, plusieurs tiroirs pour les fruits et légumes et grande capacité de rangement pour les familles. Filtre Fresh Flow. Appareil remis à neuf. Dimensions : largeur 36 po, hauteur 70 po, profondeur 29 po.",
+      "en": "Spacious, well-organized Maytag refrigerator: adjustable glass shelves, several fruit and vegetable drawers and generous storage for families. Fresh Flow filter. Refurbished unit. Dimensions: 36 in. W × 70 in. H × 29 in. D."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": "Maytag",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 850,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 36,
+      "heightIn": 70,
+      "depthIn": 29
+    },
+    "width": 36,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0jvmbn6ef1x1jwxs8w0zezm/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur Maytag de 36 po – photo 1",
+          "en": "Maytag 36-in. Refrigerator – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/b1e05d3f-a1c8-4810-8832-ecbee77a3bdc.jpg",
+          "file": "prod_01M0JVMBN6EF1X1JWXS8W0ZEZM__b1e05d3f-a1c8-4810-8832-ecbee77a3bdc.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jvmbn6ef1x1jwxs8w0zezm/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur Maytag de 36 po – photo 2",
+          "en": "Maytag 36-in. Refrigerator – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/0c04a44c-6b77-49e5-a78f-33bad1536a84.jpg",
+          "file": "prod_01M0JVMBN6EF1X1JWXS8W0ZEZM__0c04a44c-6b77-49e5-a78f-33bad1536a84.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jvmbn6ef1x1jwxs8w0zezm/3.webp",
+        "alt": {
+          "fr": "Réfrigérateur Maytag de 36 po – photo 3",
+          "en": "Maytag 36-in. Refrigerator – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/727a7233-4857-4b1f-a658-d2c3c08ec476.jpg",
+          "file": "prod_01M0JVMBN6EF1X1JWXS8W0ZEZM__727a7233-4857-4b1f-a658-d2c3c08ec476.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "3-Month Warranty",
+    "specifications": [
+      {
+        "label": {
+          "fr": "Tablettes",
+          "en": "Shelves"
+        },
+        "value": {
+          "fr": "Verre, ajustables",
+          "en": "Glass, adjustable"
+        }
+      },
+      {
+        "label": {
+          "fr": "Filtre",
+          "en": "Filter"
+        },
+        "value": {
+          "fr": "Fresh Flow",
+          "en": "Fresh Flow"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur Maytag de 36 po | Écono Électro Laval",
+      "en": "Maytag 36-in. Refrigerator | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Tablettes en verre ajustables, plusieurs tiroirs spacieux, filtre Fresh Flow. Offert à 850 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Adjustable glass shelves, several roomy drawers, Fresh Flow filter. Offered at $850. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-21T19:09:13.766Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0JVMBN6EF1X1JWXS8W0ZEZM",
+      "originalName": "Maytag Refrigerator Interior",
+      "originalSlug": "maytag-refrigerator-interior",
+      "originalUrl": "https://www.econoelectroservices.com/maytag-refrigerator-interior"
+    },
+    "reviewFlags": [
+      "Prix affiché 850 $, mais la description d'origine indiquait 800 $ : à confirmer.",
+      "Garantie mentionnée dans l'annonce d'origine (« 3-Month Warranty ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M0JV9NAXW9626EFC585AHPV1",
+    "slug": "refrigerateur-a-portes-francaises-samsung-en-acier-inoxydable-32-po",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Réfrigérateur à portes françaises Samsung en acier inoxydable, 32 po",
+      "en": "Samsung Stainless Steel French-Door Refrigerator, 32 in."
+    },
+    "shortDescription": {
+      "fr": "Twin Cooling, tablettes ajustables, grands balconnets, deux bacs à légumes.",
+      "en": "Twin Cooling, adjustable shelves, large door bins, two crisper drawers."
+    },
+    "description": {
+      "fr": "Réfrigérateur Samsung à portes françaises en acier inoxydable : technologie Twin Cooling, tablettes ajustables, grands balconnets de porte et deux bacs à légumes spacieux. Appareil remis à neuf. Dimensions : largeur 32 po, hauteur 70 po, profondeur 27 po.",
+      "en": "Samsung stainless steel French-door refrigerator: Twin Cooling technology, adjustable shelves, large door bins and two spacious crisper drawers. Refurbished unit. Dimensions: 32 in. W × 70 in. H × 27 in. D."
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": "Samsung",
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 800,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": {
+      "widthIn": 32,
+      "heightIn": 70,
+      "depthIn": 27
+    },
+    "width": 32,
+    "color": {
+      "fr": "Acier inoxydable",
+      "en": "Stainless steel"
+    },
+    "finish": "stainless",
+    "images": [
+      {
+        "src": "/images/products/01m0jv9naxw9626efc585ahpv1/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung en acier inoxydable, 32 po – photo 1",
+          "en": "Samsung Stainless Steel French-Door Refrigerator, 32 in. – photo 1"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/a29c5223-9006-476e-91d8-92641ac3ff0d.jpg",
+          "file": "prod_01M0JV9NAXW9626EFC585AHPV1__a29c5223-9006-476e-91d8-92641ac3ff0d.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jv9naxw9626efc585ahpv1/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung en acier inoxydable, 32 po – photo 2",
+          "en": "Samsung Stainless Steel French-Door Refrigerator, 32 in. – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/f7e8d1fc-bd2a-4551-96f2-baf896d5cb01.jpg",
+          "file": "prod_01M0JV9NAXW9626EFC585AHPV1__f7e8d1fc-bd2a-4551-96f2-baf896d5cb01.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m0jv9naxw9626efc585ahpv1/3.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises Samsung en acier inoxydable, 32 po – photo 3",
+          "en": "Samsung Stainless Steel French-Door Refrigerator, 32 in. – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/c3352b0e-bd97-4392-91e4-74a9c0c90608.jpg",
+          "file": "prod_01M0JV9NAXW9626EFC585AHPV1__c3352b0e-bd97-4392-91e4-74a9c0c90608.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "3-Month Warranty",
+    "specifications": [
+      {
+        "label": {
+          "fr": "Technologie",
+          "en": "Technology"
+        },
+        "value": {
+          "fr": "Twin Cooling",
+          "en": "Twin Cooling"
+        }
+      }
+    ],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur à portes françaises Samsung en acier inoxydable, 32 po | Écono Électro Laval",
+      "en": "Samsung Stainless Steel French-Door Refrigerator, 32 in. | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Twin Cooling, tablettes ajustables, grands balconnets, deux bacs à légumes. Offert à 800 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Twin Cooling, adjustable shelves, large door bins, two crisper drawers. Offered at $800. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-21T19:03:23.229Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M0JV9NAXW9626EFC585AHPV1",
+      "originalName": "French Door Stainless Steel Refrigerator",
+      "originalSlug": "french-door-stainless-steel-refrigerator",
+      "originalUrl": "https://www.econoelectroservices.com/french-door-stainless-steel-refrigerator"
+    },
+    "reviewFlags": [
+      "Garantie mentionnée dans l'annonce d'origine (« 3-Month Warranty ») : non affichée tant que non confirmée."
+    ]
+  },
+  {
+    "id": "prod_01M00WQAMEHKY7HXRBS6FCD6TG",
+    "slug": "selection-d-appareils-annonce-generique",
+    "sku": null,
+    "status": "draft",
+    "title": {
+      "fr": "Sélection d'appareils (annonce générique)",
+      "en": "Appliance selection (generic listing)"
+    },
+    "shortDescription": {
+      "fr": "",
+      "en": ""
+    },
+    "description": {
+      "fr": "Upgrade your home with our premium selection of washers, dryers, and stoves. Designed for efficiency and durability, these appliances feature modern technology and sleek finishes to fit any home style. Perfect for those seeking high performance and reliable results in every load or meal",
+      "en": ""
+    },
+    "category": "autres",
+    "subcategory": null,
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 800,
+    "compareAtPrice": 850,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": null,
+    "finish": null,
+    "images": [],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Sélection d'appareils (annonce générique) | Écono Électro Laval",
+      "en": "Appliance selection (generic listing) | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Sélection d'appareils (annonce générique) Offert à 800 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Appliance selection (generic listing) Offered at $800. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-08-14T19:41:59.822Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M00WQAMEHKY7HXRBS6FCD6TG",
+      "originalName": "Premium Appliances Set",
+      "originalSlug": "premium-appliances-set",
+      "originalUrl": "https://www.econoelectroservices.com/premium-appliances-set"
+    },
+    "reviewFlags": [
+      "Annonce générique « Premium Appliances Set » sans appareil identifiable ni photo réelle : non publiée, à revoir ou archiver.",
+      "Marque non identifiée.",
+      "Aucune photo de produit utilisable."
+    ]
+  },
+  {
+    "id": "prod_01M00VQ3FCX59XR8EN035R9KHH",
+    "slug": "carte-cadeau-numerique-econo-electro",
+    "sku": null,
+    "status": "active",
+    "title": {
+      "fr": "Carte-cadeau numérique Écono Électro",
+      "en": "Écono Électro Digital Gift Card"
+    },
+    "shortDescription": {
+      "fr": "Échangeable en magasin sur les réfrigérateurs, laveuses, sécheuses et cuisinières.",
+      "en": "Redeemable in store for refrigerators, washers, dryers and ranges."
+    },
+    "description": {
+      "fr": "Offrez le cadeau parfait avec la carte-cadeau numérique Écono Électro, échangeable exclusivement en magasin sur nos réfrigérateurs, laveuses, sécheuses et cuisinières. Idéale pour les nouveaux propriétaires ou pour quiconque renouvelle ses électroménagers.",
+      "en": "Give the perfect gift with the Écono Électro digital gift card, redeemable exclusively in store for our refrigerators, washers, dryers and ranges. Ideal for new homeowners or anyone upgrading their appliances."
+    },
+    "category": "autres",
+    "subcategory": "carte-cadeau",
+    "brand": null,
+    "model": null,
+    "condition": "new",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 10,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": null,
+    "finish": null,
+    "images": [],
+    "quantity": 999,
+    "inventoryPolicy": "continue",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": false,
+    "pickupEligible": false,
+    "warranty": null,
+    "specifications": [],
+    "includes": [],
+    "variants": [
+      {
+        "id": "10",
+        "label": {
+          "fr": "10 $",
+          "en": "$10"
+        },
+        "price": 10
+      },
+      {
+        "id": "20",
+        "label": {
+          "fr": "20 $",
+          "en": "$20"
+        },
+        "price": 20
+      },
+      {
+        "id": "50",
+        "label": {
+          "fr": "50 $",
+          "en": "$50"
+        },
+        "price": 50
+      },
+      {
+        "id": "100",
+        "label": {
+          "fr": "100 $",
+          "en": "$100"
+        },
+        "price": 100
+      }
+    ],
+    "seoTitle": {
+      "fr": "Carte-cadeau numérique Écono Électro | Écono Électro Laval",
+      "en": "Écono Électro Digital Gift Card | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Échangeable en magasin sur les réfrigérateurs, laveuses, sécheuses et cuisinières. Offert à 10 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Redeemable in store for refrigerators, washers, dryers and ranges. Offered at $10. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-14T19:24:23.916Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M00VQ3FCX59XR8EN035R9KHH",
+      "originalName": "Econo Electro Digital Gift Card",
+      "originalSlug": "econo-electro-digital-gift-card",
+      "originalUrl": "https://www.econoelectroservices.com/econo-electro-digital-gift-card"
+    },
+    "reviewFlags": [
+      "Carte-cadeau : à recréer avec la fonction Cartes-cadeaux de Shopify plutôt qu'en produit standard.",
+      "Marque non identifiée.",
+      "Aucune photo de produit utilisable."
+    ]
+  },
+  {
+    "id": "prod_01M00N0JNS9X0466GC3V8MZS0H",
+    "slug": "laveuse-et-secheuse-annonce-incomplete",
+    "sku": null,
+    "status": "draft",
+    "title": {
+      "fr": "Laveuse et sécheuse (annonce incomplète)",
+      "en": "Washer and dryer (incomplete listing)"
+    },
+    "shortDescription": {
+      "fr": "",
+      "en": ""
+    },
+    "description": {
+      "fr": "",
+      "en": ""
+    },
+    "category": "laveuses-secheuses",
+    "subcategory": "ensemble-laveuse-secheuse",
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 49,
+    "compareAtPrice": null,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": null,
+    "finish": null,
+    "images": [
+      {
+        "src": "/images/products/01m00n0jns9x0466gc3v8mzs0h/1.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse (annonce incomplète) – photo 1",
+          "en": "Washer and dryer (incomplete listing) – photo 1"
+        },
+        "width": 738,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/b46a8c68-8261-4fa7-ac8c-1fbcb1a01762.jpg",
+          "file": "prod_01M00N0JNS9X0466GC3V8MZS0H__b46a8c68-8261-4fa7-ac8c-1fbcb1a01762.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m00n0jns9x0466gc3v8mzs0h/2.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse (annonce incomplète) – photo 2",
+          "en": "Washer and dryer (incomplete listing) – photo 2"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/71229956-3d4b-4bd9-af0b-3d70797bf410.jpg",
+          "file": "prod_01M00N0JNS9X0466GC3V8MZS0H__71229956-3d4b-4bd9-af0b-3d70797bf410.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m00n0jns9x0466gc3v8mzs0h/3.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse (annonce incomplète) – photo 3",
+          "en": "Washer and dryer (incomplete listing) – photo 3"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/e03fe774-9ab7-4d7c-b246-7c2ffdeca33d.jpg",
+          "file": "prod_01M00N0JNS9X0466GC3V8MZS0H__e03fe774-9ab7-4d7c-b246-7c2ffdeca33d.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01m00n0jns9x0466gc3v8mzs0h/4.webp",
+        "alt": {
+          "fr": "Laveuse et sécheuse (annonce incomplète) – photo 4",
+          "en": "Washer and dryer (incomplete listing) – photo 4"
+        },
+        "width": 1200,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/9ae7812f-9797-4615-b1dd-2a4164ad48c5.jpg",
+          "file": "prod_01M00N0JNS9X0466GC3V8MZS0H__9ae7812f-9797-4615-b1dd-2a4164ad48c5.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": null,
+    "featured": false,
+    "newArrival": false,
+    "sale": false,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": null,
+    "specifications": [],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Laveuse et sécheuse (annonce incomplète) | Écono Électro Laval",
+      "en": "Washer and dryer (incomplete listing) | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Laveuse et sécheuse (annonce incomplète) Offert à 49 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Washer and dryer (incomplete listing) Offered at $49. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [],
+    "purchasable": true,
+    "createdAt": "2026-08-14T17:27:14.361Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01M00N0JNS9X0466GC3V8MZS0H",
+      "originalName": "Washer & Dryer",
+      "originalSlug": "washer-and-dryer",
+      "originalUrl": "https://www.econoelectroservices.com/washer-and-dryer"
+    },
+    "reviewFlags": [
+      "Prix de 49 $ invraisemblable et aucune description : non publiée tant que le prix et l'appareil ne sont pas confirmés.",
+      "Marque non identifiée.",
+      "Prix suspect (49 $)."
+    ]
+  },
+  {
+    "id": "prod_01KTHQX11PE46RAJ35806QX2S2",
+    "slug": "refrigerateur-a-portes-francaises-en-acier-inoxydable-annonce-a-corriger",
+    "sku": null,
+    "status": "draft",
+    "title": {
+      "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger)",
+      "en": "Stainless steel French-door refrigerator (listing needs correction)"
+    },
+    "shortDescription": {
+      "fr": "",
+      "en": ""
+    },
+    "description": {
+      "fr": "Stylish and comfortable, layer any outfit with our cotton-blend shirt jacket. The deep forest green tone looks cool whatever the season. Material: 70% cotton, 30% linen Color: Forest green Fit: Rel",
+      "en": ""
+    },
+    "category": "refrigerateurs",
+    "subcategory": "portes-francaises",
+    "brand": null,
+    "model": null,
+    "condition": "refurbished",
+    "conditionGrade": null,
+    "conditionNotes": {
+      "fr": "",
+      "en": ""
+    },
+    "price": 150,
+    "compareAtPrice": 2100,
+    "priceFrom": false,
+    "currency": "CAD",
+    "dimensions": null,
+    "width": null,
+    "color": null,
+    "finish": null,
+    "images": [
+      {
+        "src": "/images/products/01kthqx11pe46raj35806qx2s2/1.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger) – photo 1",
+          "en": "Stainless steel French-door refrigerator (listing needs correction) – photo 1"
+        },
+        "width": 900,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/44cfccb2-3b61-4168-bccd-727df8e29468.jpg",
+          "file": "prod_01KTHQX11PE46RAJ35806QX2S2__44cfccb2-3b61-4168-bccd-727df8e29468.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01kthqx11pe46raj35806qx2s2/2.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger) – photo 2",
+          "en": "Stainless steel French-door refrigerator (listing needs correction) – photo 2"
+        },
+        "width": 900,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/d5e487ba-adae-462c-80b8-3f6147950a98.jpg",
+          "file": "prod_01KTHQX11PE46RAJ35806QX2S2__d5e487ba-adae-462c-80b8-3f6147950a98.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01kthqx11pe46raj35806qx2s2/3.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger) – photo 3",
+          "en": "Stainless steel French-door refrigerator (listing needs correction) – photo 3"
+        },
+        "width": 900,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/da475218-2496-4bfe-aadf-a59fb54b9399.jpg",
+          "file": "prod_01KTHQX11PE46RAJ35806QX2S2__da475218-2496-4bfe-aadf-a59fb54b9399.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01kthqx11pe46raj35806qx2s2/4.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger) – photo 4",
+          "en": "Stainless steel French-door refrigerator (listing needs correction) – photo 4"
+        },
+        "width": 900,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/cb799a6c-8de9-4b95-9eeb-9c4811e7763f.jpg",
+          "file": "prod_01KTHQX11PE46RAJ35806QX2S2__cb799a6c-8de9-4b95-9eeb-9c4811e7763f.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01kthqx11pe46raj35806qx2s2/5.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger) – photo 5",
+          "en": "Stainless steel French-door refrigerator (listing needs correction) – photo 5"
+        },
+        "width": 900,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/3d621c18-3284-4904-9959-11c7a8b6a4b8.jpg",
+          "file": "prod_01KTHQX11PE46RAJ35806QX2S2__3d621c18-3284-4904-9959-11c7a8b6a4b8.jpg",
+          "crop": null
+        }
+      },
+      {
+        "src": "/images/products/01kthqx11pe46raj35806qx2s2/6.webp",
+        "alt": {
+          "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger) – photo 6",
+          "en": "Stainless steel French-door refrigerator (listing needs correction) – photo 6"
+        },
+        "width": 900,
+        "height": 1600,
+        "_source": {
+          "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KTHQX0ZZ088299QQNATJYJW7/assets/c45abbc1-6142-43be-9289-fc4b62e2d861.jpg",
+          "file": "prod_01KTHQX11PE46RAJ35806QX2S2__c45abbc1-6142-43be-9289-fc4b62e2d861.jpg",
+          "crop": null
+        }
+      }
+    ],
+    "quantity": 1,
+    "inventoryPolicy": "unique",
+    "locationId": "chomedey",
+    "featured": false,
+    "newArrival": false,
+    "sale": true,
+    "deliveryEligible": true,
+    "pickupEligible": true,
+    "warranty": "3-MONTH WARRANTY",
+    "specifications": [],
+    "includes": [],
+    "variants": [],
+    "seoTitle": {
+      "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger) | Écono Électro Laval",
+      "en": "Stainless steel French-door refrigerator (listing needs correction) | Écono Électro Laval"
+    },
+    "seoDescription": {
+      "fr": "Réfrigérateur à portes françaises en acier inoxydable (annonce à corriger) Offert à 150 $. Électroménager remis à neuf, inspecté et disponible dans nos succursales de Laval.",
+      "en": "Stainless steel French-door refrigerator (listing needs correction) Offered at $150. Refurbished, inspected appliance available at our Laval locations."
+    },
+    "badges": [
+      "sale"
+    ],
+    "purchasable": true,
+    "createdAt": "2026-06-07T19:10:38.134Z",
+    "source": {
+      "provider": "hostinger",
+      "originalId": "prod_01KTHQX11PE46RAJ35806QX2S2",
+      "originalName": "Stainless Steel French Door Refrigerator",
+      "originalSlug": "shirt-jacket-zvcinv",
+      "originalUrl": "https://www.econoelectroservices.com/shirt-jacket-zvcinv"
+    },
+    "reviewFlags": [
+      "Produit de démonstration du gabarit Hostinger (slug « shirt-jacket », description de veste). Prix 150 $ / comparé 2 100 $ non fiables : non publié.",
+      "Marque non identifiée.",
+      "Garantie mentionnée dans l'annonce d'origine (« 3-MONTH WARRANTY ») : non affichée tant que non confirmée."
+    ]
+  }
+]
