@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:26:02.982Z",
+  "generatedAt": "2026-09-22T18:34:20.213Z",
   "count": 26,
   "records": [
     {
@@ -201,6 +201,7 @@
       "originalName": "Maytag Refrigerator Interior",
       "status": "active",
       "flags": [
+        "Aucune photo extérieure de l'appareil (intérieur seulement) : à photographier.",
         "Prix affiché 850 $, mais la description d'origine indiquait 800 $ : à confirmer.",
         "Garantie mentionnée dans l'annonce d'origine (« 3-Month Warranty ») : non affichée tant que non confirmée."
       ]

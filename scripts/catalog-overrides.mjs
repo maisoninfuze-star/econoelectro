@@ -12,6 +12,7 @@
  */
 export const overrides = {
   prod_01M28Z2HS3PXTJ83YR1PASAXPE: {
+    leadImage: "5ac8f9e2", // exterior shot first (photo review 2026-09-22)
     title: { fr: "Réfrigérateur à portes françaises Samsung de 36 po", en: "Samsung 36-in. French-Door Refrigerator" },
     category: "refrigerateurs", subcategory: "portes-francaises", brand: "Samsung",
     width: 36, finish: "stainless", color: { fr: "Acier inoxydable", en: "Stainless steel" },
@@ -139,6 +140,7 @@ export const overrides = {
     reviewFlags: ["Titre d'origine « induction », description « électrique » : type de surface à confirmer."],
   },
   prod_01M1PTS9B1KYNTSX65DCKF6KE0: {
+    leadImage: "13d4e38a", // exterior shot first (photo review 2026-09-22)
     title: { fr: "Ensemble Samsung 4 appareils en acier inoxydable", en: "Samsung 4-Piece Stainless Steel Appliance Set" },
     category: "ensembles", subcategory: "4-appareils", brand: "Samsung",
     finish: "stainless", color: { fr: "Acier inoxydable", en: "Stainless steel" },
@@ -155,6 +157,7 @@ export const overrides = {
     locationId: "vimont", featured: true, sale: true,
   },
   prod_01M1A5CMFXV5TGEA2PMDKVPTNN: {
+    excludeImages: ["8155d510"], // promotional flyer with baked-in price/claims, not a product photo
     title: { fr: "Cuisinière électrique Amana en acier inoxydable", en: "Amana Stainless Steel Electric Range" },
     category: "cuisinieres", subcategory: "electrique", brand: "Amana",
     finish: "stainless", color: { fr: "Acier inoxydable", en: "Stainless steel" },
@@ -338,6 +341,7 @@ export const overrides = {
     featured: true,
   },
   prod_01M0K57CRHSZ8V16V95RE2Y5QZ: {
+    excludeImages: ["08567356"], // promotional flyer with baked-in price/claims, not a product photo
     title: { fr: "Ensemble Samsung : réfrigérateur, cuisinière, laveuse et sécheuse", en: "Samsung Set: Refrigerator, Range, Washer and Dryer" },
     category: "ensembles", subcategory: "4-appareils", brand: "Samsung",
     finish: "stainless", color: { fr: "Acier inoxydable", en: "Stainless steel" },
@@ -354,6 +358,7 @@ export const overrides = {
     sale: true,
   },
   prod_01M0K3HZQHMQSM9X8Q6CZQWBX7: {
+    leadImage: "04663ec3", // exterior shot first (photo review 2026-09-22)
     title: { fr: "Réfrigérateur Samsung Twin Cooling en acier inoxydable, 32 po", en: "Samsung Twin Cooling Stainless Steel Refrigerator, 32 in." },
     category: "refrigerateurs", subcategory: "congelateur-bas", brand: "Samsung",
     width: 32, finish: "stainless", color: { fr: "Acier inoxydable", en: "Stainless steel" },
@@ -428,6 +433,7 @@ export const overrides = {
     reviewFlags: ["Marque non précisée (la description d'origine mentionnait « Ellipse », probablement copié d'une autre annonce)."],
   },
   prod_01M0JWAWGDY4JF5A243X0WYGTX: {
+    leadImage: "589238c0", // exterior shot first (photo review 2026-09-22)
     title: { fr: "Réfrigérateur GE avec filtration d'eau, 33 po", en: "GE Refrigerator with Water Filtration, 33 in." },
     category: "refrigerateurs", subcategory: "portes-francaises", brand: "GE",
     width: 33, finish: "stainless", color: { fr: "Acier inoxydable", en: "Stainless steel" },
@@ -453,9 +459,10 @@ export const overrides = {
       { label: { fr: "Tablettes", en: "Shelves" }, value: { fr: "Verre, ajustables", en: "Glass, adjustable" } },
       { label: { fr: "Filtre", en: "Filter" }, value: { fr: "Fresh Flow", en: "Fresh Flow" } },
     ],
-    reviewFlags: ["Prix affiché 850 $, mais la description d'origine indiquait 800 $ : à confirmer."],
+    reviewFlags: ["Aucune photo extérieure de l'appareil (intérieur seulement) : à photographier.", "Prix affiché 850 $, mais la description d'origine indiquait 800 $ : à confirmer."],
   },
   prod_01M0JV9NAXW9626EFC585AHPV1: {
+    leadImage: "f7e8d1fc", // exterior shot first (photo review 2026-09-22)
     title: { fr: "Réfrigérateur à portes françaises Samsung en acier inoxydable, 32 po", en: "Samsung Stainless Steel French-Door Refrigerator, 32 in." },
     category: "refrigerateurs", subcategory: "portes-francaises", brand: "Samsung",
     width: 32, finish: "stainless", color: { fr: "Acier inoxydable", en: "Stainless steel" },

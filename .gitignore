@@ -48,3 +48,6 @@ next-env.d.ts
 
 # local Claude settings
 .claude/settings.local.json
+
+# generated ad exports (regenerate with npm run ads:export)
+exports/

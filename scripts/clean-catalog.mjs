@@ -172,13 +172,20 @@ for (const src of source.products) {
   const description = o.description ?? { fr: stripDecorations(src.description).slice(0, 600), en: "" };
 
   const dirId = src.id.replace(/^prod_/, "").toLowerCase();
+  const baseName = (im) => im.file.split("__")[1];
   let imageSources;
   if (o.images !== undefined) {
     imageSources = o.images; // explicit (often empty: flyer-only products)
   } else {
     imageSources = src.images
-      .filter((im) => !im.promoFlyer || (o.imageCrops && o.imageCrops[im.file.split("__")[1]]))
-      .map((im) => ({ url: im.url, file: im.file, crop: o.imageCrops?.[im.file.split("__")[1]] ?? null }));
+      .filter((im) => !o.excludeImages?.some((x) => baseName(im).startsWith(x)))
+      .filter((im) => !im.promoFlyer || (o.imageCrops && o.imageCrops[baseName(im)]))
+      .map((im) => ({ url: im.url, file: im.file, crop: o.imageCrops?.[baseName(im)] ?? null }));
+    // leadImage: basename prefix of the photo that should come first (exterior shot)
+    if (o.leadImage) {
+      const i = imageSources.findIndex((im) => im.file.split("__")[1].startsWith(o.leadImage));
+      if (i > 0) imageSources.unshift(...imageSources.splice(i, 1));
+    }
   }
   const images = imageSources.map((im, i) => {
     const key = `${dirId}/${i + 1}`;

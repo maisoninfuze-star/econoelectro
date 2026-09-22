@@ -26,6 +26,8 @@ Open <http://localhost:3000> (French) or <http://localhost:3000/en> (English).
 | `npm run catalog:clean` | Rebuild `src/data/products.json` from the raw Hostinger export + human overrides |
 | `npm run images:import -- --from <dir>` | Fetch/optimize product photos into `public/images/products` |
 | `npm run creatives:generate` | Regenerate editorial creatives with fal.ai (needs `FAL_KEY`) |
+| `npm run ads:export -- [--locale en] [--studio]` | Export Meta ad creatives (1:1, 4:5, 9:16) + ad copy for every product (dev server must be running) |
+| `npm run ads:cutouts` | Background-removed product cutouts with fal.ai for the `--studio` ad variant (review before use) |
 
 ## Documentation
 
@@ -36,12 +38,15 @@ Open <http://localhost:3000> (French) or <http://localhost:3000/en> (English).
 - [docs/BUSINESS-CONFIRMATION.md](docs/BUSINESS-CONFIRMATION.md) — facts to confirm before launch
 - [docs/CREATIVES.md](docs/CREATIVES.md) — how fal.ai was used (and not used)
 - [docs/REDIRECTS.md](docs/REDIRECTS.md) — old URL → new URL map
+- [docs/META-ADS.md](docs/META-ADS.md) — Facebook / Instagram ads kit: creatives, copy, catalog feed, campaign setup
 
 ## Project map
 
 ```
 src/app/[locale]/…        Pages (internal French segments; /en/* public slugs are rewritten by src/proxy.ts)
-src/app/api/…             Cart, checkout handoff, contact, newsletter, stock-alert endpoints
+src/app/api/…             Cart, checkout handoff, contact, newsletter, stock-alert, ad-creative endpoints
+src/app/feeds/…           Meta catalog feed (CSV)
+src/lib/ads/…             Ad creative layout + copy templates
 src/components/…          layout / home / product / shop / cart / forms / ui
 src/lib/commerce/…        Types, catalog search + filters, local & Shopify providers
 src/lib/i18n/…            Locales, routes, price/date formatting
