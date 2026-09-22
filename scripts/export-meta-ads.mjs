@@ -3,10 +3,13 @@
  * Exports Meta (Facebook / Instagram) ad creatives + copy for the current catalog.
  *
  *   npm run dev            # in another terminal (or npm start with ADS_EXPORT_ENABLED=1)
- *   npm run ads:export -- [--base http://localhost:3000] [--locale fr] [--formats square,portrait,story] [--only slug1,slug2] [--out exports/meta-ads] [--studio]
+ *   npm run ads:export -- [--base http://localhost:3000] [--locale fr] [--formats square,portrait,story] [--only slug1,slug2] [--out exports/meta-ads] [--studio] [--scenes]
  *
- * --studio also exports <format>-studio.png for products that have a reviewed
- * cutout in public/images/ads/cutouts (see scripts/fal-cutouts.mjs).
+ * --studio also exports <format>-studio.png for products with a reviewed cutout
+ *          (public/images/ads/cutouts, see scripts/fal-cutouts.mjs).
+ * --scenes also exports <format>-scene.png for products with a reviewed fal.ai
+ *          lifestyle scene (public/images/ads/scenes, see scripts/fal-scenes.mjs).
+ * Campaign creatives (generated scene + headline) are always exported to campaigns/<key>/.
  *
  * Output:
  *   exports/meta-ads/<locale>/<slug>/{square,portrait,story}.png   1080×1080, 1080×1350, 1080×1920
@@ -25,6 +28,8 @@ const FORMATS = opt("--formats", "square,portrait,story").split(",");
 const ONLY = opt("--only", null)?.split(",") ?? null;
 const OUT = path.resolve(opt("--out", "exports/meta-ads"), LOCALE);
 const STUDIO = args.includes("--studio");
+const SCENES = args.includes("--scenes");
+const VARIANTS = [...(STUDIO ? ["studio"] : []), ...(SCENES ? ["scene"] : [])];
 
 async function getJson(url) {
   const res = await fetch(url);
@@ -57,14 +62,14 @@ async function exportProduct(p) {
     const file = path.join(dir, `${format}.png`);
     fs.writeFileSync(file, Buffer.from(await res.arrayBuffer()));
     files.push(file);
-    if (STUDIO) {
-      const sres = await fetch(`${BASE}/api/ads/${p.slug}?format=${format}&locale=${LOCALE}&studio=1`);
-      if (sres.ok && sres.headers.get("x-ad-variant") === "studio") {
-        const sfile = path.join(dir, `${format}-studio.png`);
-        fs.writeFileSync(sfile, Buffer.from(await sres.arrayBuffer()));
-        files.push(sfile);
-      } else if (sres.ok) {
-        await sres.arrayBuffer(); // drain
+    for (const variant of VARIANTS) {
+      const vres = await fetch(`${BASE}/api/ads/${p.slug}?format=${format}&locale=${LOCALE}&variant=${variant}`);
+      if (vres.ok && vres.headers.get("x-ad-variant") === variant) {
+        const vfile = path.join(dir, `${format}-${variant}.png`);
+        fs.writeFileSync(vfile, Buffer.from(await vres.arrayBuffer()));
+        files.push(vfile);
+      } else if (vres.ok) {
+        await vres.arrayBuffer(); // drain the fallback render
       }
     }
   }
@@ -89,17 +94,32 @@ for (const p of products) {
   }
 }
 
+// Campaign creatives
+for (const c of copy.campaigns) {
+  const dir = path.join(OUT, "campaigns", c.key);
+  fs.mkdirSync(dir, { recursive: true });
+  for (const format of FORMATS) {
+    const res = await fetch(`${BASE}/api/ads/campaign/${c.key}?format=${format}&locale=${LOCALE}`);
+    if (!res.ok) { console.error(`  ✗ campaign ${c.key} ${format}: ${res.status}`); continue; }
+    const file = path.join(dir, `${format}.png`);
+    fs.writeFileSync(file, Buffer.from(await res.arrayBuffer()));
+    if (format === "square") squares.unshift(file);
+    count++;
+  }
+  console.log(`✓ campaign ${c.key}`);
+}
+
 // Copy files
 fs.writeFileSync(path.join(OUT, "ad-copy.json"), JSON.stringify(copy, null, 2));
 const md = [];
 md.push(`# Textes publicitaires Meta — ${LOCALE.toUpperCase()} (${copy.campaign})`, "", `Généré le ${copy.generatedAt}. Chaque bloc = 1 annonce. Bouton : Magasiner (SHOP_NOW).`, "");
 md.push("## Campagnes (angles)", "");
 for (const c of copy.campaigns) {
-  md.push(`### ${c.name}`, "", "**Texte principal**", "", c.primaryText, "", `**Titre :** ${c.headline}`, "", `**Description :** ${c.description}`, "", `**Lien :** ${c.landingUrl}`, "");
+  md.push(`### ${c.name}`, "", `Visuels : \`campaigns/${c.key}/square.png\`, \`portrait.png\`, \`story.png\``, "", "**Texte principal**", "", c.primaryText, "", `**Titre :** ${c.headline}`, "", `**Description :** ${c.description}`, "", `**Lien :** ${c.landingUrl}`, "");
 }
 md.push("## Annonces par produit", "");
 for (const p of products) {
-  md.push(`### ${p.productTitle}`, "", `Visuels : \`${p.slug}/square.png\` (fil), \`portrait.png\` (fil 4:5), \`story.png\` (Stories/Reels)`, "", "**Texte principal**", "", p.primaryText, "", `**Titre :** ${p.headline}`, "", `**Description :** ${p.description}`, "", `**Lien :** ${p.landingUrl}`, ...(p.notes.length ? ["", `> ⚠️ ${p.notes.join(" ")}`] : []), "");
+  md.push(`### ${p.productTitle}`, "", `Visuels : \`${p.slug}/square.png\` (fil), \`portrait.png\` (fil 4:5), \`story.png\` (Stories/Reels); variantes \`-studio\` / \`-scene\` lorsque disponibles`, "", "**Texte principal**", "", p.primaryText, "", `**Titre :** ${p.headline}`, "", `**Description :** ${p.description}`, "", `**Lien :** ${p.landingUrl}`, ...(p.notes.length ? ["", `> ⚠️ ${p.notes.join(" ")}`] : []), "");
 }
 fs.writeFileSync(path.join(OUT, "ad-copy.md"), md.join("\n"));
 

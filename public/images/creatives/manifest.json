@@ -1,22 +1,30 @@
 {
- "hero-appliance-set": {
-  "prompt": "A premium studio composition of a matching stainless steel kitchen and laundry appliance set: a French-door refrigerator, a freestanding electric range with a smooth glass cooktop, and a front-load washer and dryer pair, arranged slightly staggered on a seamless warm off-white studio floor and backdrop, gentle realistic floor shadows, three-quarter angle, high-end appliance catalogue look. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names.",
-  "aspect_ratio": "4:5",
-  "model": "fal-ai/flux-pro/v1.1-ultra"
- },
- "hero-appliance-set-wide": {
-  "prompt": "A premium studio composition of a matching stainless steel appliance set: a French-door refrigerator, a freestanding electric range with a smooth glass cooktop, and a front-load washer and dryer pair, arranged in a row on a seamless warm off-white studio floor and backdrop, gentle realistic floor shadows, slight three-quarter angle, high-end appliance catalogue look. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names.",
-  "aspect_ratio": "16:9",
-  "model": "fal-ai/flux-pro/v1.1-ultra"
- },
- "kitchen-lifestyle": {
-  "prompt": "A bright modern Canadian family kitchen with a stainless steel French-door refrigerator and a stainless electric range with glass cooktop, white shaker cabinets, light oak floor, quartz counters, morning window light, editorial interior photography, wide angle. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names.",
-  "aspect_ratio": "4:3",
-  "model": "fal-ai/flux-pro/v1.1-ultra"
- },
- "laundry-lifestyle": {
-  "prompt": "A clean, modern laundry room with a white front-load washer and matching dryer side by side under a wooden countertop, folded towels, soft window light, calm minimal interior, editorial interior photography. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names.",
-  "aspect_ratio": "4:3",
-  "model": "fal-ai/flux-pro/v1.1-ultra"
- }
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "generatedAt": "2026-09-22T19:57:01.900Z",
+  "jobs": {
+    "hero-appliance-set": {
+      "aspect_ratio": "4:5",
+      "prompt": "A premium studio composition of a matching stainless steel kitchen and laundry appliance set: a French-door refrigerator, a freestanding electric range with a smooth glass cooktop, and a front-load washer and dryer pair, arranged slightly staggered on a seamless warm off-white studio floor and backdrop, gentle realistic floor shadows, three-quarter angle, high-end appliance catalogue look. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names."
+    },
+    "hero-appliance-set-wide": {
+      "aspect_ratio": "16:9",
+      "prompt": "A premium studio composition of a matching stainless steel appliance set: a French-door refrigerator, a freestanding electric range with a smooth glass cooktop, and a front-load washer and dryer pair, arranged in a row on a seamless warm off-white studio floor and backdrop, gentle realistic floor shadows, slight three-quarter angle, high-end appliance catalogue look. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names."
+    },
+    "kitchen-lifestyle": {
+      "aspect_ratio": "4:3",
+      "prompt": "A bright modern Canadian family kitchen with a stainless steel French-door refrigerator and a stainless electric range with glass cooktop, white shaker cabinets, light oak floor, quartz counters, morning window light, editorial interior photography, wide angle. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names."
+    },
+    "kitchen-range": {
+      "aspect_ratio": "3:2",
+      "prompt": "A warm modern kitchen seen from the front, centred on a freestanding stainless steel electric range with a smooth black glass cooktop built into a run of white shaker cabinets, marble backsplash, light oak floor, soft morning daylight, editorial interior photography. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names."
+    },
+    "kitchen-fridge": {
+      "aspect_ratio": "3:2",
+      "prompt": "A bright modern Canadian kitchen centred on a stainless steel French-door refrigerator standing in an alcove between white shaker cabinets, quartz counters, light oak floor, soft window light, editorial interior photography. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names."
+    },
+    "laundry-lifestyle": {
+      "aspect_ratio": "4:3",
+      "prompt": "A clean, modern laundry room with a white front-load washer and matching dryer side by side under a wooden countertop, folded towels, soft window light, calm minimal interior, editorial interior photography. Ultra-realistic editorial retail photography, natural soft daylight, neutral warm off-white tones, clean composition, sharp focus, no people, no text, no watermarks, no logos, no brand names."
+    }
+  }
 }

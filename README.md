@@ -28,6 +28,7 @@ Open <http://localhost:3000> (French) or <http://localhost:3000/en> (English).
 | `npm run creatives:generate` | Regenerate editorial creatives with fal.ai (needs `FAL_KEY`) |
 | `npm run ads:export -- [--locale en] [--studio]` | Export Meta ad creatives (1:1, 4:5, 9:16) + ad copy for every product (dev server must be running) |
 | `npm run ads:cutouts` | Background-removed product cutouts with fal.ai for the `--studio` ad variant (review before use) |
+| `npm run ads:scenes` | Places approved cutouts into fal.ai-generated rooms for the `--scenes` ad variant (review before use) |
 
 ## Documentation
 

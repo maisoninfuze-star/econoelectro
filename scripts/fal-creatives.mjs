@@ -31,6 +31,14 @@ export const JOBS = {
     aspect_ratio: "4:3",
     prompt: "A bright modern Canadian family kitchen with a stainless steel French-door refrigerator and a stainless electric range with glass cooktop, white shaker cabinets, light oak floor, quartz counters, morning window light, editorial interior photography, wide angle." + STYLE,
   },
+  "kitchen-range": {
+    aspect_ratio: "3:2",
+    prompt: "A warm modern kitchen seen from the front, centred on a freestanding stainless steel electric range with a smooth black glass cooktop built into a run of white shaker cabinets, marble backsplash, light oak floor, soft morning daylight, editorial interior photography." + STYLE,
+  },
+  "kitchen-fridge": {
+    aspect_ratio: "3:2",
+    prompt: "A bright modern Canadian kitchen centred on a stainless steel French-door refrigerator standing in an alcove between white shaker cabinets, quartz counters, light oak floor, soft window light, editorial interior photography." + STYLE,
+  },
   "laundry-lifestyle": {
     aspect_ratio: "4:3",
     prompt: "A clean, modern laundry room with a white front-load washer and matching dryer side by side under a wooden countertop, folded towels, soft window light, calm minimal interior, editorial interior photography." + STYLE,

@@ -1,0 +1,194 @@
+{
+  "prod_01M28PXK35F71FXBGTC7EM0TGF": {
+    "slug": "refrigerateur-de-format-standard-marques-variees",
+    "file": "/images/ads/scenes/01m28pxk35f71fxbgtc7em0tgf.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m28pxk35f71fxbgtc7em0tgf.png",
+    "padding": [
+      477,
+      477,
+      130,
+      83
+    ],
+    "prompt": "A bright modern Canadian kitchen with white shaker cabinets, light oak floor and quartz counters; the refrigerator stands in a dedicated alcove between the cabinets as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:00:14.064Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": false,
+    "rejectReason": "three units in one kitchen looks unrealistic"
+  },
+  "prod_01M28JE86K4JTJY5J9344AXA86": {
+    "slug": "ensemble-laveuse-et-secheuse-marques-variees",
+    "file": "/images/ads/scenes/01m28je86k4jtjy5j9344axa86.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m28je86k4jtjy5j9344axa86.png",
+    "padding": [
+      194,
+      194,
+      83,
+      53
+    ],
+    "prompt": "A clean modern laundry room with light grey walls, a wooden folding counter to one side, a window with soft daylight and a few folded towels; the washer and dryer stand on the tiled floor as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:00:33.552Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": true
+  },
+  "prod_01M19TREDHHDAM4Z744EWWDNWF": {
+    "slug": "cuisiniere-electrique-maytag-gemini-a-double-four",
+    "file": "/images/ads/scenes/01m19tredhhdam4z744ewwdnwf.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m19tredhhdam4z744ewwdnwf.png",
+    "padding": [
+      439,
+      439,
+      86,
+      54
+    ],
+    "prompt": "A warm modern kitchen with white cabinets, a light wood floor and a marble backsplash; the range is built into the cabinetry run as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:00:50.513Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": true
+  },
+  "prod_01M0K1GBRE64XMXJDM3MBT77D2": {
+    "slug": "refrigerateur-a-portes-francaises-samsung-twin-cooling-37-po",
+    "file": "/images/ads/scenes/01m0k1gbre64xmxjdm3mbt77d2.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m0k1gbre64xmxjdm3mbt77d2.png",
+    "padding": [
+      1007,
+      1007,
+      171,
+      109
+    ],
+    "prompt": "A bright modern Canadian kitchen with white shaker cabinets, light oak floor and quartz counters; the refrigerator stands in a dedicated alcove between the cabinets as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:01:19.100Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": true
+  },
+  "prod_01M17ER2FVR4DEQVYYSBKZABC5": {
+    "slug": "ensemble-4-appareils-refrigerateur-cuisiniere-laveuse-et-secheuse",
+    "file": "/images/ads/scenes/01m17er2fvr4deqvyysbkzabc5.jpg",
+    "width": 1296,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m17er2fvr4deqvyysbkzabc5.png",
+    "padding": [
+      61,
+      61,
+      48,
+      30
+    ],
+    "prompt": "A bright open-plan Canadian home with white cabinets and light oak floor, kitchen and laundry area in one view; the appliances stand together as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:01:33.900Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": false,
+    "rejectReason": "laundry pair placed in a kitchen, stray object in scene"
+  },
+  "prod_01M0JZYCHCD9DVBHDEY2H7GPQM": {
+    "slug": "refrigerateur-a-portes-francaises-samsung-blanc-33-po",
+    "file": "/images/ads/scenes/01m0jzychcd9dvbhdey2h7gpqm.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m0jzychcd9dvbhdey2h7gpqm.png",
+    "padding": [
+      908,
+      908,
+      160,
+      102
+    ],
+    "prompt": "A bright modern Canadian kitchen with white shaker cabinets, light oak floor and quartz counters; the refrigerator stands in a dedicated alcove between the cabinets as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:01:49.654Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": true
+  },
+  "prod_01M0JZ30DMHN2STKR6Q7Y8EP2C": {
+    "slug": "refrigerateur-ge-profile-a-congelateur-inferieur-33-po",
+    "file": "/images/ads/scenes/01m0jz30dmhn2stkr6q7y8ep2c.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m0jz30dmhn2stkr6q7y8ep2c.png",
+    "padding": [
+      866,
+      866,
+      154,
+      98
+    ],
+    "prompt": "A bright modern Canadian kitchen with white shaker cabinets, light oak floor and quartz counters; the refrigerator stands in a dedicated alcove between the cabinets as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:02:11.194Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": true
+  },
+  "prod_01M1PTS9B1KYNTSX65DCKF6KE0": {
+    "slug": "ensemble-samsung-4-appareils-en-acier-inoxydable",
+    "file": "/images/ads/scenes/01m1pts9b1kyntsx65dckf6ke0.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m1pts9b1kyntsx65dckf6ke0.png",
+    "padding": [
+      382,
+      382,
+      114,
+      73
+    ],
+    "prompt": "A bright open-plan Canadian home with white cabinets and light oak floor, kitchen and laundry area in one view; the appliances stand together as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:02:30.488Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": true
+  },
+  "prod_01M0K57CRHSZ8V16V95RE2Y5QZ": {
+    "slug": "ensemble-samsung-refrigerateur-cuisiniere-laveuse-et-secheuse",
+    "file": "/images/ads/scenes/01m0k57crhsz8v16v95re2y5qz.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m0k57crhsz8v16v95re2y5qz.png",
+    "padding": [
+      630,
+      630,
+      139,
+      88
+    ],
+    "prompt": "A bright open-plan Canadian home with white cabinets and light oak floor, kitchen and laundry area in one view; the appliances stand together as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:02:52.649Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": true
+  },
+  "prod_01M0JWAWGDY4JF5A243X0WYGTX": {
+    "slug": "refrigerateur-ge-avec-filtration-d-eau-33-po",
+    "file": "/images/ads/scenes/01m0jwawgdy4jf5a243x0wygtx.jpg",
+    "width": 1295,
+    "height": 809,
+    "cutout": "/images/ads/cutouts/01m0jwawgdy4jf5a243x0wygtx.png",
+    "padding": [
+      908,
+      908,
+      156,
+      99
+    ],
+    "prompt": "A bright modern Canadian kitchen with white shaker cabinets, light oak floor and quartz counters; the refrigerator stands in a dedicated alcove between the cabinets as the single focal point. Photorealistic editorial interior photography, soft natural daylight, realistic scale, no other appliances anywhere in the scene, no people, no text, no logos.",
+    "generatedAt": "2026-09-22T20:03:16.592Z",
+    "model": "fal-ai/bria/product-shot",
+    "reviewed": true,
+    "reviewedAt": "2026-09-22",
+    "approved": true
+  }
+}
