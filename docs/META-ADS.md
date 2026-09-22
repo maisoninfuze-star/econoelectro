@@ -10,6 +10,7 @@ Everything needed to run product ads from the live catalog, without editing code
 | Studio variants (optional) | `…/<slug>/<format>-studio.png` | Same layout, background removed by fal.ai (Bria RMBG), appliance on a soft studio backdrop. Only for products with a **reviewed** cutout. |
 | Scene variants (optional) | `…/<slug>/<format>-scene.png` | Same layout, the real cutout placed in a fal.ai-generated kitchen or laundry room (Bria Product Shot). Only for products with a **reviewed** scene. |
 | Campaign creatives | `…/campaigns/<key>/<format>.png` | Five campaign angles on fal.ai FLUX editorial scenes (no specific unit shown) with the campaign headline. |
+| Ad videos | `…/videos/<slug>/{square,story}.mp4`, `…/videos/campaigns-<key>/…` | 6-second silent H.264 videos (1080×1080 feed, 1080×1920 Reels/Stories): a fal.ai Kling clip (slow camera push-in on the scene, appliance kept static) under the same price/condition panel, panel fades in, last frame held 1 s. |
 | Ad copy | `exports/meta-ads/<locale>/ad-copy.md` and `.json` | Primary text, headline (≤ 40 chars), description, call to action and UTM-tagged landing URL for every product, plus 5 campaign angles. |
 | Contact sheet | `exports/meta-ads/<locale>/contact-sheet.jpg` | One-glance review of all square creatives. |
 | Catalog feed | `https://www.econoelectroservices.com/feeds/meta-catalog.csv` (add `?locale=en` for English) | Live CSV for Commerce Manager: id, title, description, availability, condition (`refurbished`), price / sale_price in CAD, link, images, brand, product type, Google category, quantity. Refreshes every 5 minutes. |
@@ -25,7 +26,7 @@ npm run ads:export -- --locale en # English set
 npm run ads:export -- --only laveuse-et-secheuse-samsung-grises,refrigerateur-maytag-de-36-po
 ```
 
-Against a production deployment, set `ADS_EXPORT_ENABLED=1` and pass `--base https://www.econoelectroservices.com`. Without that variable the `/api/ads/*` routes return 404 in production. The catalog feed is always public (Meta must fetch it).
+The exporters start a local `next dev` server automatically when nothing is listening on the base URL, and stop it afterwards (`--no-auto-server` disables this). Against a production deployment, set `ADS_EXPORT_ENABLED=1` and pass `--base https://www.econoelectroservices.com`. Without that variable the `/api/ads/*` routes return 404 in production. The catalog feed is always public (Meta must fetch it).
 
 ### Studio backgrounds (fal.ai)
 
@@ -42,6 +43,15 @@ FAL_KEY=... npm run ads:scenes      # approved cutouts → public/images/ads/sce
 ```
 
 Bria places the cutout into a generated room described per category (kitchen alcove for refrigerators, cabinetry run for ranges, laundry room for washer/dryer sets) and only paints the surroundings; the unit itself, including its stickers and wear, stays identical to the store photo. **Review every scene** and delete any where the model invented another appliance or the scale looks off, then `npm run ads:export -- --studio --scenes`.
+
+### Ad videos (fal.ai Kling 2.5 Turbo Pro + ffmpeg)
+
+```bash
+FAL_KEY=... npm run ads:videos          # clips for every approved scene + the 5 campaign scenes → exports/meta-ads/video-clips
+npm run ads:export-videos               # composes exports/meta-ads/fr/videos (+ frame-sheet.jpg for review); --locale en for English
+```
+
+The clip prompt pins the appliance as static and only moves the camera; Kling, Hailuo and Wan all kept the unit unchanged in tests, Kling being the fastest (about 75 s per clip) and sharpest. Still, **review `frame-sheet.jpg`** and delete any clip in `video-clips/` where the unit drifts; the manifest records rejections so a re-run skips them. Needs `ffmpeg` on the PATH (`brew install ffmpeg`). Clips are git-ignored (≈ 18 MB each).
 
 ### Campaign scenes (fal.ai FLUX)
 
@@ -71,5 +81,5 @@ Bria places the cutout into a generated room described per category (kitchen alc
 - `src/lib/ads/copy.ts` — copy templates, FR and EN
 - `src/app/api/ads/[slug]/route.tsx`, `src/app/api/ads/copy/route.ts` — render endpoints
 - `src/app/feeds/meta-catalog.csv/route.ts` — catalog feed
-- `scripts/export-meta-ads.mjs`, `scripts/fal-cutouts.mjs`, `scripts/fal-scenes.mjs`, `scripts/fal-creatives.mjs` — exporters and fal.ai generators
+- `scripts/export-meta-ads.mjs`, `scripts/export-meta-videos.mjs`, `scripts/fal-cutouts.mjs`, `scripts/fal-scenes.mjs`, `scripts/fal-videos.mjs`, `scripts/fal-creatives.mjs` — exporters and fal.ai generators (`scripts/lib/ensure-server.mjs` starts a dev server automatically when none is running)
 - `src/app/api/ads/campaign/[key]/route.tsx` — campaign creative endpoint

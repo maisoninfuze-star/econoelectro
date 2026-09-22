@@ -29,6 +29,7 @@ Open <http://localhost:3000> (French) or <http://localhost:3000/en> (English).
 | `npm run ads:export -- [--locale en] [--studio]` | Export Meta ad creatives (1:1, 4:5, 9:16) + ad copy for every product (dev server must be running) |
 | `npm run ads:cutouts` | Background-removed product cutouts with fal.ai for the `--studio` ad variant (review before use) |
 | `npm run ads:scenes` | Places approved cutouts into fal.ai-generated rooms for the `--scenes` ad variant (review before use) |
+| `npm run ads:videos` · `npm run ads:export-videos` | fal.ai Kling clips from approved scenes, then ffmpeg composition into 1:1 and 9:16 ad videos with the price panel |
 
 ## Documentation
 

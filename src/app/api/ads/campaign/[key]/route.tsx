@@ -19,5 +19,5 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
   if (!isAdFormat(format) || !isLocale(locale)) return NextResponse.json({ error: "bad_request" }, { status: 400 });
   const campaign = campaignAdCopy(await getActiveProducts(), locale).find((c) => c.key === key);
   if (!campaign) return NextResponse.json({ error: "campaign_not_found" }, { status: 404 });
-  return renderCampaignCreative(campaign, format, locale);
+  return renderCampaignCreative(campaign, format, locale, { panelOnly: sp.get("layer") === "panel" });
 }

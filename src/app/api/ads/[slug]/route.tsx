@@ -24,5 +24,5 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
   if (!isAdFormat(format) || !isLocale(locale)) return NextResponse.json({ error: "bad_request" }, { status: 400 });
   const product = await getCommerce().getProductBySlug(slug);
   if (!product) return NextResponse.json({ error: "product_not_found" }, { status: 404 });
-  return renderAdCreative(product, format, locale, { variant: rawVariant });
+  return renderAdCreative(product, format, locale, { variant: rawVariant, panelOnly: sp.get("layer") === "panel" });
 }

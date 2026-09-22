@@ -2,8 +2,11 @@
 /**
  * Exports Meta (Facebook / Instagram) ad creatives + copy for the current catalog.
  *
- *   npm run dev            # in another terminal (or npm start with ADS_EXPORT_ENABLED=1)
  *   npm run ads:export -- [--base http://localhost:3000] [--locale fr] [--formats square,portrait,story] [--only slug1,slug2] [--out exports/meta-ads] [--studio] [--scenes]
+ *
+ * If nothing is listening at --base (localhost), the script starts "next dev" on that
+ * port for the duration of the export and stops it afterwards (--no-auto-server disables this).
+ * Against a deployment: --base https://www.econoelectroservices.com with ADS_EXPORT_ENABLED=1 set there.
  *
  * --studio also exports <format>-studio.png for products with a reviewed cutout
  *          (public/images/ads/cutouts, see scripts/fal-cutouts.mjs).
@@ -19,6 +22,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import sharp from "sharp";
+import { ensureServer } from "./lib/ensure-server.mjs";
 
 const args = process.argv.slice(2);
 const opt = (n, d) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : d; };
@@ -37,12 +41,7 @@ async function getJson(url) {
   return res.json();
 }
 
-try {
-  await fetch(BASE);
-} catch {
-  console.error(`No server at ${BASE}. Start it with "npm run dev" first.`);
-  process.exit(1);
-}
+const stopServer = await ensureServer(BASE, { autoStart: !args.includes("--no-auto-server"), warmup: [`/api/ads/copy?locale=${LOCALE}`] });
 
 const copy = await getJson(`${BASE}/api/ads/copy?locale=${LOCALE}`);
 const products = copy.products.filter((p) => !ONLY || ONLY.includes(p.slug));
@@ -136,3 +135,4 @@ if (squares.length) {
     .toFile(path.join(OUT, "contact-sheet.jpg"));
 }
 console.log(`\n${count} creatives for ${products.length} products → ${OUT}`);
+stopServer();

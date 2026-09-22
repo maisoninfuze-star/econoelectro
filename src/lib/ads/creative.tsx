@@ -21,7 +21,7 @@ import { productKind } from "./kind";
  * cover-cropped into the frame and the price, condition and store come from
  * the catalog. Rendered with next/og (satori) using the site's Manrope fonts.
  */
-export type AdFormat = "square" | "portrait" | "story";
+export type AdFormat = "square" | "portrait" | "story" | "story-video";
 
 interface FormatSpec {
   width: number;
@@ -38,6 +38,8 @@ export const AD_FORMATS: Record<AdFormat, FormatSpec> = {
   square: { width: 1080, height: 1080, photo: 590, s: 1, safeBottom: 0 },
   portrait: { width: 1080, height: 1350, photo: 830, s: 1.05, safeBottom: 0 },
   story: { width: 1080, height: 1920, photo: 1010, s: 1.12, safeBottom: 300 },
+  /** Vertical video: the 1.6:1 clip fills a shorter photo area so the camera move never crops the unit. */
+  "story-video": { width: 1080, height: 1920, photo: 800, s: 1.24, safeBottom: 300 },
 };
 
 /** Keep prices and "2 000 $" groups on one line in rendered text. */
@@ -46,7 +48,7 @@ function nb(s: string): string {
 }
 
 export function isAdFormat(v: string | null): v is AdFormat {
-  return v === "square" || v === "portrait" || v === "story";
+  return v === "square" || v === "portrait" || v === "story" || v === "story-video";
 }
 
 /** Path of the reviewed background-removed cutout for a product, if one exists (see scripts/fal-cutouts.mjs). */
@@ -75,6 +77,8 @@ export function isAdVariant(v: string | null): v is AdVariant {
 export interface AdOptions {
   /** photo = real photo (default); studio = cutout on a studio backdrop; scene = cutout in a fal.ai lifestyle scene. Falls back to photo when the asset is missing. */
   variant?: AdVariant;
+  /** Render only the text panel, badges and chrome with a transparent photo area (overlay for video). */
+  panelOnly?: boolean;
 }
 
 export async function renderAdCreative(product: Product, format: AdFormat, locale: Locale, options: AdOptions = {}): Promise<ImageResponse> {
@@ -89,7 +93,8 @@ export async function renderAdCreative(product: Product, format: AdFormat, local
     readFile(path.join(process.cwd(), "public/brand/logo-192.png")),
     scene ? ogImageData(scene) : cutout ? ogPngData(cutout) : product.images[0] ? ogImageData(product.images[0].src) : Promise.resolve(null),
   ]);
-  const studio = Boolean(cutout && photoData);
+  const panelOnly = Boolean(options.panelOnly);
+  const studio = Boolean(cutout && photoData) && !panelOnly;
   const variant: AdVariant = scene && photoData ? "scene" : studio ? "studio" : "photo";
   const logo = `data:image/png;base64,${logoBuf.toString("base64")}`;
 
@@ -115,19 +120,20 @@ export async function renderAdCreative(product: Product, format: AdFormat, local
     : dict.common.twoLocations;
   const domain = BRAND.domain.replace(/^https?:\/\//, "");
 
-  const titleSize = Math.round((format === "story" ? 52 : 44) * s);
-  const priceSize = Math.round((format === "story" ? 80 : 66) * s);
+  const vertical = format === "story" || format === "story-video";
+  const titleSize = Math.round((vertical ? 52 : 44) * s);
+  const priceSize = Math.round((vertical ? 80 : 66) * s);
   const pad = Math.round(56 * s);
 
   return new ImageResponse(
     (
-      <div style={{ width, height, display: "flex", flexDirection: "column", background: "#F7F7F4", fontFamily: "Manrope", color: "#111111" }}>
+      <div style={{ width, height, display: "flex", flexDirection: "column", background: panelOnly ? "transparent" : "#F7F7F4", fontFamily: "Manrope", color: "#111111" }}>
         {/* Photo */}
-        <div style={{ display: "flex", position: "relative", width, height: photo, overflow: "hidden", background: studio ? "linear-gradient(180deg, #FBFBF9 0%, #ECECE8 100%)" : "#E9E9E6" }}>
+        <div style={{ display: "flex", position: "relative", width, height: photo, overflow: "hidden", background: panelOnly ? "transparent" : studio ? "linear-gradient(180deg, #FBFBF9 0%, #ECECE8 100%)" : "#E9E9E6" }}>
           {studio ? (
             <div style={{ position: "absolute", left: Math.round(width * 0.18), right: Math.round(width * 0.18), bottom: Math.round(34 * s), height: Math.round(70 * s), display: "flex", background: "radial-gradient(ellipse at center, rgba(17,17,17,0.22) 0%, rgba(17,17,17,0) 68%)" }} />
           ) : null}
-          {photoData ? (
+          {photoData && !panelOnly ? (
             <img src={photoData} alt="" width={width} height={photo} style={{ objectFit: studio ? "contain" : "cover", objectPosition: variant === "scene" ? "center 62%" : "center", width, height: photo, padding: studio ? `${Math.round(70 * s)}px ${Math.round(80 * s)}px ${Math.round(56 * s)}px` : 0 }} />
           ) : null}
           {badgeText ? (
@@ -169,7 +175,7 @@ export async function renderAdCreative(product: Product, format: AdFormat, local
         <div style={{ display: "flex", height: Math.round(12 * s), background: "#ED0101" }} />
       </div>
     ),
-    { width, height, fonts, headers: { "x-ad-variant": variant } },
+    { width, height, fonts, headers: { "x-ad-variant": variant, "x-ad-layer": panelOnly ? "panel" : "full" } },
   );
 }
 
@@ -182,7 +188,8 @@ export const CAMPAIGN_IMAGES: Record<string, string> = {
   marque: "/images/creatives/kitchen-lifestyle.webp",
 };
 
-export async function renderCampaignCreative(campaign: { key: string; name: string; headline: string; description: string }, format: AdFormat, locale: Locale): Promise<ImageResponse> {
+export async function renderCampaignCreative(campaign: { key: string; name: string; headline: string; description: string }, format: AdFormat, locale: Locale, options: { panelOnly?: boolean } = {}): Promise<ImageResponse> {
+  const panelOnly = Boolean(options.panelOnly);
   const spec = AD_FORMATS[format];
   const { width, height, photo, s, safeBottom } = spec;
   const dict = getDictionary(locale);
@@ -193,13 +200,13 @@ export async function renderCampaignCreative(campaign: { key: string; name: stri
   const inspected = locale === "fr" ? "Nettoyés, testés et inspectés avant la vente" : "Cleaned, tested and inspected before sale";
   const footerLine = FULFILLMENT.delivery.offered ? (locale === "fr" ? "Deux succursales à Laval · Livraison disponible" : "Two Laval locations · Delivery available") : dict.common.twoLocations;
   const domain = BRAND.domain.replace(/^https?:\/\//, "");
-  const titleSize = Math.round((format === "story" ? 60 : 50) * s);
+  const titleSize = Math.round((format === "story" || format === "story-video" ? 60 : 50) * s);
   const pad = Math.round(56 * s);
   return new ImageResponse(
     (
-      <div style={{ width, height, display: "flex", flexDirection: "column", background: "#F7F7F4", fontFamily: "Manrope", color: "#111111" }}>
-        <div style={{ display: "flex", position: "relative", width, height: photo, overflow: "hidden", background: "#E9E9E6" }}>
-          {photoData ? <img src={photoData} alt="" width={width} height={photo} style={{ objectFit: "cover", width, height: photo }} /> : null}
+      <div style={{ width, height, display: "flex", flexDirection: "column", background: panelOnly ? "transparent" : "#F7F7F4", fontFamily: "Manrope", color: "#111111" }}>
+        <div style={{ display: "flex", position: "relative", width, height: photo, overflow: "hidden", background: panelOnly ? "transparent" : "#E9E9E6" }}>
+          {photoData && !panelOnly ? <img src={photoData} alt="" width={width} height={photo} style={{ objectFit: "cover", width, height: photo }} /> : null}
           <div style={{ position: "absolute", top: Math.round(40 * s), left: Math.round(40 * s), display: "flex", background: "#ED0101", color: "#ffffff", fontSize: Math.round(22 * s), fontWeight: 800, letterSpacing: 2, textTransform: "uppercase", padding: `${Math.round(12 * s)}px ${Math.round(20 * s)}px`, borderRadius: 8 }}>
             {dict.hero.eyebrow}
           </div>

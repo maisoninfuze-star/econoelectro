@@ -14,7 +14,9 @@
     "check": "npm run lint && npm run typecheck && npm run build",
     "ads:export": "node scripts/export-meta-ads.mjs",
     "ads:cutouts": "node scripts/fal-cutouts.mjs",
-    "ads:scenes": "node scripts/fal-scenes.mjs"
+    "ads:scenes": "node scripts/fal-scenes.mjs",
+    "ads:videos": "node scripts/fal-videos.mjs",
+    "ads:export-videos": "node scripts/export-meta-videos.mjs"
   },
   "dependencies": {
     "next": "16.3.5",
